@@ -1,3 +1,5 @@
+# abcdefg
+
 library(tidyr)
 library(readxl)
 
@@ -9,6 +11,7 @@ df %>% separate(x, c("a", "b"), extra = "drop", fill = "right")
 # Another option:
 df %>% separate(x, c("a", "b"), extra = "merge", fill = "left")
 
+####################
 #now with dataset
 setwd("~/Box Sync/Rogers Lab/Rogers Lab Meeting")
 
@@ -21,6 +24,3 @@ test2<-separate(data = test, col = plant, into = LETTERS[seq( from = 1, to = 6 )
 test3<-gather(test2, "frugivore", "n", 7:8 )
 test4<-gather(test3, "plant", "letter", 7:12)
 
-
-
-### This is Evan Trying to Push (to master?)
