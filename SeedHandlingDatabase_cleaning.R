@@ -13,7 +13,7 @@ df %>% separate(x, c("a", "b"), extra = "merge", fill = "left")
 
 ####################
 #now with dataset
-setwd("~/Box Sync/Rogers Lab/Rogers Lab Meeting")
+#setwd("~/Box Sync/Rogers Lab/Rogers Lab Meeting")
 
 alldata<-read_excel("Seed Handling database_foranalysis_ef_20160913.xlsx", sheet=1)
 
@@ -68,6 +68,14 @@ head(plants.df)
 tail(plants.df) # checks out!
 
 
+frugivores.inds <- which(!is.na(out.frugivores),arr.ind=T)
+frugivores.df <- as.data.frame(matrix(ncol=0,nrow=length(frugivores.inds[,1])))
+frugivores.df$numid <- frugivores.inds[,1]
+frugivores.df$full.name <- out.frugivores[frugivores.inds]
+head(frugivores.df)
+tail(frugivores.df) # checks out!
+
+
 
 
 ###
@@ -118,8 +126,8 @@ head(frugivores.df)
 plants.df <- plants.df[order(plants.df$numid),]
 frugivores.df <- frugivores.df[order(frugivores.df$numid),]
 
-write.csv(plants.df,"plants.csv")
-write.csv(frugivores.df,"frugivores.csv")
+#write.csv(plants.df,"plants.csv")
+#write.csv(frugivores.df,"frugivores.csv")
 
 
 
