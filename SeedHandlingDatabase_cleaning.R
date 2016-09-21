@@ -146,3 +146,25 @@ frugivores.df <- frugivores.df[order(frugivores.df$numid),]
 which(duplicated(alldata$paperid))
 length(alldata$paperid)
 
+
+
+
+
+###
+### Check taxonomy
+###
+
+install.packages("Taxonstand") # This is super cool - if it works!
+library(Taxonstand)
+plant.names <- read.csv("Plant list 20160921.csv")
+
+head(plant.names)
+
+tpl.out <- TPL(genus = plant.names$genus, species = plant.names$species)
+
+write.csv(tpl.out,"tpl.out.csv")
+
+# If there's an error that says something like: "Error in file(con, "r") : cannot open the connection", then
+# uncomment the following line of code and run it.
+# setInternet2(TRUE)
+
