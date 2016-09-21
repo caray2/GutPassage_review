@@ -1,0 +1,1007 @@
+"","Genus","Species","Abbrev","Infraspecific","ID","Plant.Name.Index","TPL_version","Taxonomic.status","Family","New.Genus","New.Hybrid.marker","New.Species","New.Infraspecific","Authority","New.ID","Typo","WFormat"
+"1","Ziziphus","mistol",NA,"","tro-27500137",TRUE,"1.1","Accepted","Rhamnaceae","Ziziphus","","mistol","","Griseb.","tro-27500137",FALSE,FALSE
+"2","Celtis","pallida",NA,"","kew-2708404",TRUE,"1.1","Accepted","Cannabaceae","Celtis","","pallida","","Torr.","kew-2708404",FALSE,FALSE
+"3","Ziziphus","mistol",NA,"","tro-27500137",TRUE,"1.1","Accepted","Rhamnaceae","Ziziphus","","mistol","","Griseb.","tro-27500137",FALSE,FALSE
+"4","Acacia","aroma",NA,"","ild-10221",TRUE,"1.1","Accepted","Leguminosae","Acacia","","aroma","","Hook. & Arn.","ild-10221",FALSE,FALSE
+"5","Celtis","tala",NA,"","kew-2708484",TRUE,"1.1","Accepted","Cannabaceae","Celtis","","tala","","Gillies ex Planch.","kew-2708484",FALSE,FALSE
+"6","Syagrus","romanzoffiana",NA,"","kew-198839",TRUE,"1.1","Accepted","Arecaceae","Syagrus","","romanzoffiana","","(Cham.) Glassman","kew-198839",FALSE,FALSE
+"7","Geoffroea","decorticans",NA,"","ild-10407",TRUE,"1.1","Accepted","Leguminosae","Geoffroea","","decorticans","","(Hook. & Arn.) Burkart","ild-10407",FALSE,FALSE
+"8","Ziziphus","mistol",NA,"","tro-27500137",TRUE,"1.1","Accepted","Rhamnaceae","Ziziphus","","mistol","","Griseb.","tro-27500137",FALSE,FALSE
+"9","Prosopis","nigra",NA,"","ild-20362",TRUE,"1.1","Accepted","Leguminosae","Prosopis","","nigra","","Hieron.","ild-20362",FALSE,FALSE
+"10","Prosopis","alba",NA,"","ild-677",TRUE,"1.1","Accepted","Leguminosae","Prosopis","","alba","","Griseb.","ild-677",FALSE,FALSE
+"11","Celtis","erherbergiana",NA,"","",FALSE,"1.1","","","Celtis","","erherbergiana","","","",FALSE,FALSE
+"12","Condalia","microphylla",NA,"","kew-2733996",TRUE,"1.1","Accepted","Rhamnaceae","Condalia","","microphylla","","Cav.","kew-2733996",FALSE,FALSE
+"13","Acacia","aroma",NA,"","ild-10221",TRUE,"1.1","Accepted","Leguminosae","Acacia","","aroma","","Hook. & Arn.","ild-10221",FALSE,FALSE
+"14","Acacia","atramentaria",NA,"","ild-10223",TRUE,"1.1","Accepted","Leguminosae","Acacia","","atramentaria","","Benth.","ild-10223",FALSE,FALSE
+"15","Acacia","caven",NA,"","ild-24882",TRUE,"1.1","Accepted","Leguminosae","Acacia","","caven","","(Molina) Molina","ild-24882",FALSE,FALSE
+"16","Diospyros","virginiana",NA,"","kew-2770719",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","virginiana","","L.","kew-2770719",FALSE,FALSE
+"17","Maclura","pomifera",NA,"","kew-2501306",TRUE,"1.1","Accepted","Moraceae","Maclura","","pomifera","","(Raf.) C.K.Schneid.","kew-2501306",FALSE,FALSE
+"18","Asimina","triloba",NA,"","kew-2655435",TRUE,"1.1","Accepted","Annonaceae","Asimina","","triloba","","(L.) Dunal","kew-2655435",FALSE,FALSE
+"19","Calvaria","major",NA,"","kew-31994",TRUE,"1.1","Synonym","Sapotaceae","Sideroxylon","","majus","","(C.F.Gaertn.) Baehni","kew-191998",FALSE,FALSE
+"20","Anacardium","microsepalum",NA,"","kew-2635909",TRUE,"1.1","Accepted","Anacardiaceae","Anacardium","","microsepalum","","Loes.","kew-2635909",FALSE,FALSE
+"21","Annona","hypoglauca",NA,"","kew-2640895",TRUE,"1.1","Accepted","Annonaceae","Annona","","hypoglauca","","Mart.","kew-2640895",FALSE,FALSE
+"22","Astrocaryum","jauary",NA,"","kew-17539",TRUE,"1.1","Accepted","Arecaceae","Astrocaryum","","jauari","","Mart.","kew-17539",TRUE,FALSE
+"23","Byrsonima","amazonica",NA,"","kew-2688095",TRUE,"1.1","Synonym","Malpighiaceae","Byrsonima","","densa","","(Poir.) DC.","kew-2688202",FALSE,FALSE
+"24","Byrsonima","sp.",NA,"","",FALSE,"1.1","","","Byrsonima","","sp.","","","",FALSE,FALSE
+"25","Carapa","guinensis",NA,"","",FALSE,"1.1","","","Carapa","","guinensis","","","",FALSE,FALSE
+"26","Cecropia","membranacea",NA,"","kew-2707072",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","membranacea","","Trécul","kew-2707072",FALSE,FALSE
+"27","Duguetia","marcgraviana",NA,"","kew-2779121",TRUE,"1.1","Accepted","Annonaceae","Duguetia","","marcgraviana","","Mart.","kew-2779121",FALSE,FALSE
+"28","Ficus","sp.",NA,"","",FALSE,"1.1","","","Ficus","","sp.","","","",FALSE,FALSE
+"29","Genipa","americana",NA,"","kew-89085",TRUE,"1.1","Accepted","Rubiaceae","Genipa","","americana","","L.","kew-89085",FALSE,FALSE
+"30","Hevea","brasiliensis",NA,"","kew-98927",TRUE,"1.1","Accepted","Euphorbiaceae","Hevea","","brasiliensis","","(Willd. ex A.Juss.) Müll.Arg.","kew-98927",FALSE,FALSE
+"31","Hevea","spruceana",NA,"","kew-99007",TRUE,"1.1","Accepted","Euphorbiaceae","Hevea","","spruceana","","(Benth.) Müll.Arg.","kew-99007",FALSE,FALSE
+"32","Licania","apetala",NA,"","kew-353934",TRUE,"1.1","Accepted","Chrysobalanaceae","Licania","","apetala","","(E.Mey.) Fritsch","kew-353934",FALSE,FALSE
+"33","Licania.","sp.",NA,"","",FALSE,"1.1","","","Licania.","","sp.","","","",FALSE,FALSE
+"34","Lucuma","dissepala",NA,"","kew-115327",TRUE,"1.1","Synonym","Sapotaceae","Pouteria","","venosa","amazonica","subsp.","kew-164524",FALSE,FALSE
+"35","Mabea","nitida",NA,"","kew-116185",TRUE,"1.1","Accepted","Euphorbiaceae","Mabea","","nitida","","Spruce ex Benth.","kew-116185",FALSE,FALSE
+"36","Nectandra","amazonum",NA,"","kew-2379536",TRUE,"1.1","Accepted","Lauraceae","Nectandra","","amazonum","","Nees","kew-2379536",FALSE,FALSE
+"37","Neolabatia","cuprea",NA,"","kew-133811",TRUE,"1.1","Synonym","Sapotaceae","Pouteria","","glomerata","stylosa","subsp.","kew-164147",FALSE,FALSE
+"38","Piranhea","trifoliolata",NA,"","",FALSE,"1.1","","","Piranhea","","trifoliolata","","","",FALSE,FALSE
+"39","Protium","sp.",NA,"","",FALSE,"1.1","","","Protium","","sp.","","","",FALSE,FALSE
+"40","Randia","armata",NA,"","kew-176164",TRUE,"1.1","Accepted","Rubiaceae","Randia","","armata","","(Sw.) DC.","kew-176164",FALSE,FALSE
+"41","Simaba","guianensis",NA,"","kew-2580348",TRUE,"1.1","Accepted","Simaroubaceae","Simaba","","guianensis","","Aubl.","kew-2580348",FALSE,FALSE
+"42","Sorocea","duckei",NA,"","tro-21301838",TRUE,"1.1","Accepted","Moraceae","Sorocea","","duckei","","W.C. Burger","tro-21301838",FALSE,FALSE
+"43","Symeria","paniculata",NA,"","",FALSE,"1.1","","","Symeria","","paniculata","","","",FALSE,FALSE
+"44","Tabebuia","barbata",NA,"","kew-318699",TRUE,"1.1","Synonym","Bignoniaceae","Handroanthus","","barbatus","","(E.Mey.) Mattos","kew-317135",FALSE,FALSE
+"45","Unonopsis","matthewsii",NA,"","tro-1600471",TRUE,"1.1","Synonym","Annonaceae","Unonopsis","","guatterioides","","(A.DC.) R.E.Fr.","kew-2447492",FALSE,FALSE
+"46","Virola","surinamensis",NA,"","kew-2451940",TRUE,"1.1","Accepted","Myristicaceae","Virola","","surinamensis","","(Rol. ex Rottb.) Warb.","kew-2451940",FALSE,FALSE
+"47","Elaeocarpaceae","elaeocarpaceae",NA,"","",FALSE,"1.1","","","Elaeocarpaceae","","elaeocarpaceae","","","",FALSE,FALSE
+"48","Cucurbitaceae","cucurbitaceae",NA,"","",FALSE,"1.1","","","Cucurbitaceae","","cucurbitaceae","","","",FALSE,FALSE
+"49","Lecythidaceae","lecythidaceae",NA,"","",FALSE,"1.1","","","Lecythidaceae","","lecythidaceae","","","",FALSE,FALSE
+"50","Heracleum","lanatum",NA,"","tro-1700134",TRUE,"1.1","Accepted","Apiaceae","Heracleum","","lanatum","","Michx.","tro-1700134",FALSE,FALSE
+"51","Securinega","virosa",NA,"","kew-190368",TRUE,"1.1","Synonym","Phyllanthaceae","Flueggea","","virosa","","(Roxb. ex Willd.) Royle","kew-84621",FALSE,FALSE
+"52","Azadirachta","indica",NA,"","kew-2667002",TRUE,"1.1","Accepted","Meliaceae","Azadirachta","","indica","","A.Juss.","kew-2667002",FALSE,FALSE
+"53","Nauclea","latifolia",NA,"","kew-133213",TRUE,"1.1","Synonym","Rubiaceae","Sarcocephalus","","latifolius","","(Sm.) E.A.Bruce","kew-184881",FALSE,FALSE
+"54","Diospyros","mespiliformis",NA,"","kew-2770144",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","mespiliformis","","Hochst. ex A.DC.","kew-2770144",FALSE,FALSE
+"55","Acacia","cyclops",NA,"","ild-387",TRUE,"1.1","Accepted","Leguminosae","Acacia","","cyclops","","G.Don","ild-387",FALSE,FALSE
+"56","Nitraria","billardier",NA,"","kew-2382391",TRUE,"1.1","Unresolved","Nitrariaceae","Nitraria","","billardierei","","DC.","kew-2382391",TRUE,FALSE
+"57","Rhagodia","parabolica",NA,"","tro-7201758",TRUE,"1.1","Accepted","Amaranthaceae","Rhagodia","","parabolica","","R. Br.","tro-7201758",FALSE,FALSE
+"58","Arnyerna","preissii",NA,"","",FALSE,"1.1","","","Arnyerna","","preissii","","","",FALSE,FALSE
+"59","Lysiana","exocarp",NA,"","kew-2354011",TRUE,"1.1","Unresolved","Loranthaceae","Lysiana","","exocarpi","","Tiegh.","kew-2354011",TRUE,FALSE
+"60","Amyema","quandang",NA,"","kew-2635323",TRUE,"1.1","Accepted","Loranthaceae","Amyema","","quandang","","(Lindl.) Tiegh.","kew-2635323",FALSE,FALSE
+"61","Schinus","terebinthifolius",NA,"","",FALSE,"1.1","","","Schinus","","terebinthifolius","","","",FALSE,FALSE
+"62","Amelanchier","arborea",NA,"","rjp-4788",TRUE,"1.1","Accepted","Rosaceae","Amelanchier","","arborea","","(F.Michx.) Fernald","rjp-4788",FALSE,FALSE
+"63","Ryparosa","sp.",NA,"","",FALSE,"1.1","","","Ryparosa","","sp.","","","",FALSE,FALSE
+"64","Murraya","paniculata",NA,"","kew-2510469",TRUE,"1.1","Accepted","Rutaceae","Murraya","","paniculata","","(L.) Jack","kew-2510469",FALSE,FALSE
+"65","Panda","oleosa",NA,"","kew-146837",TRUE,"1.1","Accepted","Pandaceae","Panda","","oleosa","","Pierre","kew-146837",FALSE,FALSE
+"66","Balanites","wilsoniana",NA,"","kew-19487",TRUE,"1.1","Accepted","Zygophyllaceae","Balanites","","wilsoniana","","Dawe & Sprague","kew-19487",FALSE,FALSE
+"67","Strychnos","aculeata",NA,"","kew-2598055",TRUE,"1.1","Accepted","Loganiaceae","Strychnos","","aculeata","","Soler.","kew-2598055",FALSE,FALSE
+"68","Parinari","excels",NA,"","kew-355551",TRUE,"1.1","Accepted","Chrysobalanaceae","Parinari","","excelsa","","Sabine","kew-355551",TRUE,FALSE
+"69","Spergula","arvensis",NA,"","kew-2487413",TRUE,"1.1","Accepted","Caryophyllaceae","Spergula","","arvensis","","L.","kew-2487413",FALSE,FALSE
+"70","Hypochaeris","glabra",NA,"","gcc-105693",TRUE,"1.1","Accepted","Compositae","Hypochaeris","","glabra","","L.","gcc-105693",FALSE,FALSE
+"71","Ornithopus","sativus",NA,"","ild-5208",TRUE,"1.1","Accepted","Leguminosae","Ornithopus","","sativus","","Brot.","ild-5208",FALSE,FALSE
+"72","Rumex","bucephalophorus",NA,"","kew-2424356",TRUE,"1.1","Accepted","Polygonaceae","Rumex","","bucephalophorus","","L.","kew-2424356",FALSE,FALSE
+"73","Briza","maxima",NA,"","kew-400234",TRUE,"1.1","Accepted","Poaceae","Briza","","maxima","","L.","kew-400234",FALSE,FALSE
+"74","Annona","glabra",NA,"","kew-2640872",TRUE,"1.1","Accepted","Annonaceae","Annona","","glabra","","L.","kew-2640872",FALSE,FALSE
+"75","Aceratium","doggrellii",NA,"","kew-2616710",TRUE,"1.1","Accepted","Elaeocarpaceae","Aceratium","","doggrellii","","C.T.White","kew-2616710",FALSE,FALSE
+"76","Acmena","divaricata",NA,"","kew-2106",TRUE,"1.1","Synonym","Myrtaceae","Syzygium","","divaricatum","","(Merr. & L.M.Perry) Craven & Biffin","kew-344839",FALSE,FALSE
+"77","Apodytes","brachystylis",NA,"","kew-2644279",TRUE,"1.1","Accepted","Icacinaceae","Apodytes","","brachystylis","","F.Muell.","kew-2644279",FALSE,FALSE
+"78","Beilshmiedia","oligandra",NA,"","",FALSE,"1.1","","","Beilshmiedia","","oligandra","","","",FALSE,FALSE
+"79","Calophyllum","costatum",NA,"","kew-2693277",TRUE,"1.1","Accepted","Clusiaceae","Calophyllum","","costatum","","F.M.Bailey","kew-2693277",FALSE,FALSE
+"80","Castanospora","alphandii",NA,"","kew-2704744",TRUE,"1.1","Accepted","Sapindaceae","Castanospora","","alphandi","","(F.Muell.) F.Muell.","kew-2704744",TRUE,FALSE
+"81","Cryptocarya","oblata",NA,"","kew-2746133",TRUE,"1.1","Accepted","Lauraceae","Cryptocarya","","oblata","","F.M.Bailey","kew-2746133",FALSE,FALSE
+"82","Cryptocarya","pleurosperma",NA,"","kew-2746189",TRUE,"1.1","Accepted","Lauraceae","Cryptocarya","","pleurosperma","","C.T.White & W.D.Francis","kew-2746189",FALSE,FALSE
+"83","Davidsonia","pruriens",NA,"","kew-56619",TRUE,"1.1","Accepted","Cunoniaceae","Davidsonia","","pruriens","","F.Muell.","kew-56619",FALSE,FALSE
+"84","Elaeocarpus","grandis",NA,"","kew-2785591",TRUE,"1.1","Synonym","Elaeocarpaceae","Elaeocarpus","","angustifolius","","Blume","kew-2785314",FALSE,FALSE
+"85","Elaeocarpus","largiflorens",NA,"","kew-2785695",TRUE,"1.1","Accepted","Elaeocarpaceae","Elaeocarpus","","largiflorens","","C.T.White","kew-2785695",FALSE,FALSE
+"86","Endiandra","impressicosta",NA,"","kew-2788869",TRUE,"1.1","Accepted","Lauraceae","Endiandra","","impressicosta","","C.K.Allen","kew-2788869",FALSE,FALSE
+"87","Endiandra","longipedicellata",NA,"","kew-2788885",TRUE,"1.1","Accepted","Lauraceae","Endiandra","","longipedicellata","","C.T.White","kew-2788885",FALSE,FALSE
+"88","Ficus","crassipes",NA,"","kew-2810073",TRUE,"1.1","Accepted","Moraceae","Ficus","","crassipes","","F.M.Bailey","kew-2810073",FALSE,FALSE
+"89","Normanbya","normanbyi",NA,"","kew-135693",TRUE,"1.1","Accepted","Arecaceae","Normanbya","","normanbyi","","(W.Hill) L.H.Bailey","kew-135693",FALSE,FALSE
+"90","Peripentadenia","mearsii",NA,"","tro-100355755",TRUE,"1.1","Synonym","Phyllanthaceae","Actephila","","mearsii","","C.T.White","kew-2710",FALSE,FALSE
+"91","Prunus","turneriana",NA,"","rjp-25361",TRUE,"1.1","Accepted","Rosaceae","Prunus","","turneriana","","(F.M.Bailey) Kalkman","rjp-25361",FALSE,FALSE
+"92","Capsicum","annuum",NA,"","kew-2698415",TRUE,"1.1","Accepted","Solanaceae","Capsicum","","annuum","","L.","kew-2698415",FALSE,FALSE
+"93","Capsicum","chacoense",NA,"","kew-2698472",TRUE,"1.1","Accepted","Solanaceae","Capsicum","","chacoense","","Hunz.","kew-2698472",FALSE,FALSE
+"94","Crataegus","monogyna",NA,"","rjp-49",TRUE,"1.1","Accepted","Rosaceae","Crataegus","","monogyna","","Jacq.","rjp-49",FALSE,FALSE
+"95","Solanum","lycopersicum",NA,"","tro-29605838",TRUE,"1.1","Accepted","Solanaceae","Solanum","","lycopersicum","","L.","tro-29605838",FALSE,FALSE
+"96","Myrica","faya",NA,"","kew-2500713",TRUE,"1.1","Accepted","Myricaceae","Myrica","","faya","","Dryand.","kew-2500713",FALSE,FALSE
+"97","Ficus","luschnathiana",NA,"","kew-2811175",TRUE,"1.1","Accepted","Moraceae","Ficus","","luschnathiana","","(Miq.) Miq.","kew-2811175",FALSE,FALSE
+"98","Miconia","prasina",NA,"","tro-20300177",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","prasina","","(Sw.) DC.","tro-20300177",FALSE,FALSE
+"99","Annona","salzmannii",NA,"","kew-2641010",TRUE,"1.1","Accepted","Annonaceae","Annona","","salzmannii","","A.DC.","kew-2641010",FALSE,FALSE
+"100","Aechmea.","sp.",NA,"","",FALSE,"1.1","","","Aechmea.","","sp.","","","",FALSE,FALSE
+"101","Vismia","latifolia",NA,"","tro-7801573",TRUE,"1.1","Accepted","Hypericaceae","Vismia","","latifolia","","(Aubl.) Choisy","tro-7801573",FALSE,FALSE
+"102","Cheiloclinium","cognatum",NA,"","kew-2716141",TRUE,"1.1","Accepted","Celastraceae","Cheiloclinium","","cognatum","","(Miers) A.C.Sm.","kew-2716141",FALSE,FALSE
+"103","Henriettea","succosa",NA,"","tro-20302656",TRUE,"1.1","Accepted","Melastomataceae","Henriettea","","succosa","","(Aubl.) DC.","tro-20302656",FALSE,FALSE
+"104","Miconia","mirabilis",NA,"","tro-20300170",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","mirabilis","","(Aubl.) L.O. Williams","tro-20300170",FALSE,FALSE
+"105","Miconia","hypoleuca",NA,"","tro-20301106",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","hypoleuca","","(Benth.) Triana","tro-20301106",FALSE,FALSE
+"106","Anomospermum","reticulatum",NA,"","kew-2641316",TRUE,"1.1","Accepted","Menispermaceae","Anomospermum","","reticulatum","","(Mart.) Eichler","kew-2641316",FALSE,FALSE
+"107","Inga","thibaudiana",NA,"","ild-12252",TRUE,"1.1","Accepted","Leguminosae","Inga","","thibaudiana","","DC.","ild-12252",FALSE,FALSE
+"108","Helicostylis","tomentosa",NA,"","kew-2843149",TRUE,"1.1","Accepted","Moraceae","Helicostylis","","tomentosa","","(Poepp. & Endl.) J.F.Macbr.","kew-2843149",FALSE,FALSE
+"109","Ficus","gomelleira",NA,"","kew-2810596",TRUE,"1.1","Accepted","Moraceae","Ficus","","gomelleira","","Kunth & C.D.Bouché","kew-2810596",FALSE,FALSE
+"110","Pourouma","mollis",NA,"","kew-2408802",TRUE,"1.1","Accepted","Urticaceae","Pourouma","","mollis","","Trécul","kew-2408802",FALSE,FALSE
+"111","Pourouma","velutina",NA,"","kew-2408460",TRUE,"1.1","Accepted","Urticaceae","Pourouma","","velutina","","Mart. ex Miq.","kew-2408460",FALSE,FALSE
+"112","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"113","Eugenia","rostrata",NA,"","kew-76678",TRUE,"1.1","Accepted","Myrtaceae","Eugenia","","rostrata","","O.Berg","kew-76678",FALSE,FALSE
+"114","Myrcia","fallax",NA,"","kew-131218",TRUE,"1.1","Synonym","Myrtaceae","Myrcia","","splendens","","(Sw.) DC.","kew-131639",FALSE,FALSE
+"115","Neomitranthes","obscura",NA,"","kew-133885",TRUE,"1.1","Accepted","Myrtaceae","Neomitranthes","","obscura","","(DC.) N.Silveira","kew-133885",FALSE,FALSE
+"116","Campomanesia","dichotoma",NA,"","kew-33148",TRUE,"1.1","Accepted","Myrtaceae","Campomanesia","","dichotoma","","(O.Berg) Mattos","kew-33148",FALSE,FALSE
+"117","Marlierea","verticillaria",NA,"","kew-120760",TRUE,"1.1","Accepted","Myrtaceae","Marlierea","","verticillaris","","O.Berg","kew-120760",TRUE,FALSE
+"118","Myrcia","gigantea",NA,"","kew-131246",TRUE,"1.1","Accepted","Myrtaceae","Myrcia","","gigantea","","(O.Berg) Nied.","kew-131246",FALSE,FALSE
+"119","Passiflora.","sp.",NA,"","",FALSE,"1.1","","","Passiflora.","","sp.","","","",FALSE,FALSE
+"120","Simira","viridiflora",NA,"","kew-192348",TRUE,"1.1","Accepted","Rubiaceae","Simira","","viridiflora","","(Allemão & Saldanha) Steyerm.","kew-192348",FALSE,FALSE
+"121","Chrysophyllum","splendens",NA,"","kew-40296",TRUE,"1.1","Accepted","Sapotaceae","Chrysophyllum","","splendens","","Spreng.","kew-40296",FALSE,FALSE
+"122","Cissus.","sp.",NA,"","",FALSE,"1.1","","","Cissus.","","sp.","","","",FALSE,FALSE
+"123","Schinus","terebinthifolius",NA,"","",FALSE,"1.1","","","Schinus","","terebinthifolius","","","",FALSE,FALSE
+"124","Mangifera","indica",NA,"","kew-2362842",TRUE,"1.1","Accepted","Anacardiaceae","Mangifera","","indica","","L.","kew-2362842",FALSE,FALSE
+"125","Spondias.","sp.",NA,"","",FALSE,"1.1","","","Spondias.","","sp.","","","",FALSE,FALSE
+"126","Rauvolfia.","sp.",NA,"","",FALSE,"1.1","","","Rauvolfia.","","sp.","","","",FALSE,FALSE
+"127","Schefflera","morotonii",NA,"","",FALSE,"1.1","","","Schefflera","","morotonii","","","",FALSE,FALSE
+"128","Attalea","oleifera",NA,"","kew-17819",TRUE,"1.1","Accepted","Arecaceae","Attalea","","oleifera","","Barb.Rodr.","kew-17819",FALSE,FALSE
+"129","Euterpe","oleraceae",NA,"","kew-83095",TRUE,"1.1","Accepted","Arecaceae","Euterpe","","oleracea","","Mart.","kew-83095",TRUE,FALSE
+"130","Mauritia","flexuosa",NA,"","kew-122230",TRUE,"1.1","Accepted","Arecaceae","Mauritia","","flexuosa","","L.f.","kew-122230",FALSE,FALSE
+"131","Licania","tomentosa",NA,"","kew-353853",TRUE,"1.1","Accepted","Chrysobalanaceae","Licania","","tomentosa","","(Benth.) Fritsch.","kew-353853",FALSE,FALSE
+"132","Margaritaria","nobilis",NA,"","kew-120587",TRUE,"1.1","Accepted","Phyllanthaceae","Margaritaria","","nobilis","","L.f.","kew-120587",FALSE,FALSE
+"133","Clitoria","fairchildiana",NA,"","ild-10748",TRUE,"1.1","Accepted","Leguminosae","Clitoria","","fairchildiana","","R.A.Howard","ild-10748",FALSE,FALSE
+"134","Inga.","sp.",NA,"","",FALSE,"1.1","","","Inga.","","sp.","","","",FALSE,FALSE
+"135","Tamarindus","indica",NA,"","ild-1720",TRUE,"1.1","Accepted","Leguminosae","Tamarindus","","indica","","L.","ild-1720",FALSE,FALSE
+"136","Byrsonima","spicata",NA,"","kew-2688397",TRUE,"1.1","Accepted","Malpighiaceae","Byrsonima","","spicata","","(Cav.) Rich. ex Kunth","kew-2688397",FALSE,FALSE
+"137","Artocarpus","heterophyllus",NA,"","kew-2653982",TRUE,"1.1","Accepted","Moraceae","Artocarpus","","heterophyllus","","Lam.","kew-2653982",FALSE,FALSE
+"138","Brosimum","guinaense",NA,"","",FALSE,"1.1","","","Brosimum","","guinaense","","","",FALSE,FALSE
+"139","Psidium","cattleianum",NA,"","kew-166659",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","cattleianum","","Afzel. ex Sabine","kew-166659",FALSE,FALSE
+"140","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"141","Solanum","paniculatum",NA,"","tro-29600133",TRUE,"1.1","Accepted","Solanaceae","Solanum","","paniculatum","","L.","tro-29600133",FALSE,FALSE
+"142","Solanum","stramonifolium",NA,"","tro-29603063",TRUE,"1.1","Accepted","Solanaceae","Solanum","","stramoniifolium","","Jacq.","tro-29603063",TRUE,FALSE
+"143","Piper","aduncum",NA,"","kew-2559296",TRUE,"1.1","Accepted","Piperaceae","Piper","","aduncum","","L.","kew-2559296",FALSE,FALSE
+"144","Piper","hispidinervum",NA,"","kew-2558111",TRUE,"1.1","Synonym","Piperaceae","Piper","","hispidum","","Sw.","kew-2558107",FALSE,FALSE
+"145","Solanum","granuloso-leprosum",NA,"","tro-29601478",TRUE,"1.1","Accepted","Solanaceae","Solanum","","granuloso-leprosum","","Dunal","tro-29601478",FALSE,FALSE
+"146","Ficus","enormis",NA,"","kew-2810335",TRUE,"1.1","Accepted","Moraceae","Ficus","","enormis","","(Miq.) Miq.","kew-2810335",FALSE,FALSE
+"147","Syzygium","oblatum",NA,"","kew-200006",TRUE,"1.1","Accepted","Myrtaceae","Syzygium","","oblatum","","(Roxb.) Wall. ex A.M.Cowan & Cowan","kew-200006",FALSE,FALSE
+"148","Tristerix","aphyllus",NA,"","tro-19100956",TRUE,"1.1","Accepted","Loranthaceae","Tristerix","","aphyllus","","(Miers ex DC.) Barlow & Wiens","tro-19100956",FALSE,FALSE
+"149","Ficus","racemosa",NA,"","kew-2811980",TRUE,"1.1","Accepted","Moraceae","Ficus","","racemosa","","L.","kew-2811980",FALSE,FALSE
+"150","Ficus","hispida",NA,"","kew-2810756",TRUE,"1.1","Accepted","Moraceae","Ficus","","hispida","","L.f.","kew-2810756",FALSE,FALSE
+"151","Rubia","fruticosa",NA,"","kew-180273",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","fruticosa","","Aiton","kew-180273",FALSE,FALSE
+"152","Neochamaelea","pulverulenta",NA,"","kew-133669",TRUE,"1.1","Synonym","Rutaceae","Cneorum","","pulverulentum","","Vent.","kew-44136",FALSE,FALSE
+"153","Withania","aristata",NA,"","kew-2465644",TRUE,"1.1","Unresolved","Solanaceae","Withania","","aristata","","Pauquy","kew-2465644",FALSE,FALSE
+"154","Lycium","intricatum",NA,"","kew-2496762",TRUE,"1.1","Accepted","Solanaceae","Lycium","","intricatum","","Boiss.","kew-2496762",FALSE,FALSE
+"155","Atriplex","semibaccata",NA,"","kew-2665777",TRUE,"1.1","Accepted","Amaranthaceae","Atriplex","","semibaccata","","R.Br.","kew-2665777",FALSE,FALSE
+"156","Opuntia.","dillenii",NA,"","",FALSE,"1.1","","","Opuntia.","","dillenii","","","",FALSE,FALSE
+"157","Scilla","haemorrhoidali",NA,"","kew-288711",TRUE,"1.1","Accepted","Asparagaceae","Scilla","","haemorrhoidalis","","Webb & Berthel.","kew-288711",TRUE,FALSE
+"158","Uvariopsis","congensis",NA,"","kew-2448130",TRUE,"1.1","Accepted","Annonaceae","Uvariopsis","","congensis","","Robyns & Ghesq.","kew-2448130",FALSE,FALSE
+"159","Mimusops","bagshawei",NA,"","kew-128387",TRUE,"1.1","Accepted","Sapotaceae","Mimusops","","bagshawei","","S.Moore","kew-128387",FALSE,FALSE
+"160","Ficus","sp.",NA,"","",FALSE,"1.1","","","Ficus","","sp.","","","",FALSE,FALSE
+"161","Cordia","abyssinica",NA,"","kew-2736516",TRUE,"1.1","Synonym","Boraginaceae","Cordia","","africana","","Lam.","kew-2736523",FALSE,FALSE
+"162","Aframomum","sp.",NA,"","",FALSE,"1.1","","","Aframomum","","sp.","","","",FALSE,FALSE
+"163","Monodora","myristica",NA,"","kew-2365380",TRUE,"1.1","Accepted","Annonaceae","Monodora","","myristica","","(Gaertn.) Dunal","kew-2365380",FALSE,FALSE
+"164","Warburgia","stuhlmanni",NA,"","kew-2465887",TRUE,"1.1","Accepted","Canellaceae","Warburgia","","stuhlmannii","","Engl.","kew-2465887",TRUE,FALSE
+"165","Pseudospondias","microcar",NA,"","kew-2407084",TRUE,"1.1","Accepted","Anacardiaceae","Pseudospondias","","microcarpa","","(A.Rich.) Engl.","kew-2407084",TRUE,FALSE
+"166","Tabernaemontana.","sp.",NA,"","",FALSE,"1.1","","","Tabernaemontana.","","sp.","","","",FALSE,FALSE
+"167","Chgysophyllum.","sp.",NA,"","",FALSE,"1.1","","","Chgysophyllum.","","sp.","","","",FALSE,FALSE
+"168","Phytolacca","dodecandra",NA,"","kew-2562823",TRUE,"1.1","Accepted","Phytolaccaceae","Phytolacca","","dodecandra","","L'Hér.","kew-2562823",FALSE,FALSE
+"169","Morus","macroura",NA,"","tro-50131548",TRUE,"1.1","Accepted","Moraceae","Morus","","macroura","","Miq.","tro-50131548",FALSE,FALSE
+"170","Eurya","japonica",NA,"","kew-2804885",TRUE,"1.1","Accepted","Pentaphylacaceae","Eurya","","japonica","","Thunb.","kew-2804885",FALSE,FALSE
+"171","Parthenocissus","tricuspidata",NA,"","kew-2548140",TRUE,"1.1","Accepted","Vitaceae","Parthenocissus","","tricuspidata","","(Siebold & Zucc.) Planch.","kew-2548140",FALSE,FALSE
+"172","Lonicera","japonica",NA,"","kew-2339716",TRUE,"1.1","Accepted","Caprifoliaceae","Lonicera","","japonica","","Thunb.","kew-2339716",FALSE,FALSE
+"173","Paederia","scandens",NA,"","kew-145510",TRUE,"1.1","Synonym","Rubiaceae","Paederia","","foetida","","L.","kew-145468",FALSE,FALSE
+"174","Cornus","florida",NA,"","kew-47363",TRUE,"1.1","Accepted","Cornaceae","Cornus","","florida","","L.","kew-47363",FALSE,FALSE
+"175","Ilex","serrata",NA,"","tro-50000836",TRUE,"1.1","Accepted","Aquifoliaceae","Ilex","","serrata","","Thunb.","tro-50000836",FALSE,FALSE
+"176","Pyracantha","coccinea",NA,"","rjp-447",TRUE,"1.1","Accepted","Rosaceae","Pyracantha","","coccinea","","M.Roem.","rjp-447",FALSE,FALSE
+"177","Viburnum","dilatatum",NA,"","tro-100373995",TRUE,"1.1","Accepted","Adoxaceae","Viburnum","","dilatatum","","Thunb.","tro-100373995",FALSE,FALSE
+"178","Phytolacca","americana",NA,"","kew-2562777",TRUE,"1.1","Accepted","Phytolaccaceae","Phytolacca","","americana","","L.","kew-2562777",FALSE,FALSE
+"179","Morus","bombycis",NA,"","tro-21300011",TRUE,"1.1","Synonym","Moraceae","Morus","","australis","","Poir.","tro-21301962",FALSE,FALSE
+"180","Aphniphyllum","macropodum",NA,"","",FALSE,"1.1","","","Aphniphyllum","","macropodum","","","",FALSE,FALSE
+"181","Ilex","crenata",NA,"","tro-2000385",TRUE,"1.1","Accepted","Aquifoliaceae","Ilex","","crenata","","Thunb.","tro-2000385",FALSE,FALSE
+"182","Ligustrum","obtusifolium",NA,"","kew-354228",TRUE,"1.1","Accepted","Oleaceae","Ligustrum","","obtusifolium","","Siebold & Zucc.","kew-354228",FALSE,FALSE
+"183","Ophiopogon","japonicus",NA,"","kew-279475",TRUE,"1.1","Accepted","Asparagaceae","Ophiopogon","","japonicus","","(Thunb.) Ker Gawl.","kew-279475",FALSE,FALSE
+"184","Pourthiaea","villosa",NA,"","rjp-19653",TRUE,"1.1","Synonym","Rosaceae","Photinia","","beauverdiana","","C.K.Schneid.","rjp-1902",FALSE,FALSE
+"185","Celastrus","orbiculatus",NA,"","kew-2707630",TRUE,"1.1","Accepted","Celastraceae","Celastrus","","orbiculatus","","Thunb.","kew-2707630",FALSE,FALSE
+"186","Idesia","polydarpa",NA,"","kew-4860269",TRUE,"1.1","Accepted","Salicaceae","Idesia","","polycarpa","","Maxim.","kew-4860269",TRUE,FALSE
+"187","Fatsia","japonica",NA,"","kew-84268",TRUE,"1.1","Accepted","Araliaceae","Fatsia","","japonica","","(Thunb.) Decne. & Planch.","kew-84268",FALSE,FALSE
+"188","Aucuba","japonica",NA,"","kew-17884",TRUE,"1.1","Accepted","Garryaceae","Aucuba","","japonica","","Thunb.","kew-17884",FALSE,FALSE
+"189","Callicarpa","dichtoma",NA,"","kew-30739",TRUE,"1.1","Accepted","Lamiaceae","Callicarpa","","dichotoma","","(Lour.) K.Koch","kew-30739",TRUE,FALSE
+"190","Aridisia","sievoldii",NA,"","",FALSE,"1.1","","","Aridisia","","sievoldii","","","",FALSE,FALSE
+"191","Ardisia","squamulosa",NA,"","kew-2648786",TRUE,"1.1","Synonym","Primulaceae","Ardisia","","elliptica","","Thunb.","kew-2647897",FALSE,FALSE
+"192","Bischofia","javanica",NA,"","kew-22243",TRUE,"1.1","Accepted","Phyllanthaceae","Bischofia","","javanica","","Blume","kew-22243",FALSE,FALSE
+"193","Champereia","manillana",NA,"","kew-2715872",TRUE,"1.1","Accepted","Opiliaceae","Champereia","","manillana","","(Blume) Merr.","kew-2715872",FALSE,FALSE
+"194","Diospyros","ferrea",NA,"","kew-2769716",TRUE,"1.1","Synonym","Ebenaceae","Diospyros","","vera","","(Lour.) A.Chev.","kew-2770705",FALSE,FALSE
+"195","Ehretia","acuminata",NA,"","kew-2784642",TRUE,"1.1","Accepted","Boraginaceae","Ehretia","","acuminata","","R.Br.","kew-2784642",FALSE,FALSE
+"196","Leea","guineensis",NA,"","tro-34000178",TRUE,"1.1","Accepted","Vitaceae","Leea","","guineensis","","G. Don","tro-34000178",FALSE,FALSE
+"197","Mchilus","japonica",NA,"","",FALSE,"1.1","","","Mchilus","","japonica","","","",FALSE,FALSE
+"198","Myrica","adenophora",NA,"","tro-21700131",TRUE,"1.1","Accepted","Myricaceae","Myrica","","adenophora","","Hance","tro-21700131",FALSE,FALSE
+"199","Ptychosperma","angustifolia",NA,"","kew-170807",TRUE,"1.1","Synonym","Arecaceae","Drymophloeus","","litigiosus","","(Becc.) H.E.Moore","kew-64732",TRUE,FALSE
+"200","Trema","orientalis",NA,"","kew-2518675",TRUE,"1.1","Accepted","Cannabaceae","Trema","","orientalis","","(L.) Blume","kew-2518675",FALSE,FALSE
+"201","Viburnum","odoratissimum",NA,"","tro-6000526",TRUE,"1.1","Accepted","Adoxaceae","Viburnum","","odoratissimum","","Ker Gawl.","tro-6000526",FALSE,FALSE
+"202","Ficus","ampelas",NA,"","kew-2809444",TRUE,"1.1","Accepted","Moraceae","Ficus","","ampelas","","Burm.f.","kew-2809444",FALSE,FALSE
+"203","Ficus","benjamina",NA,"","kew-2809661",TRUE,"1.1","Accepted","Moraceae","Ficus","","benjamina","","L.","kew-2809661",FALSE,FALSE
+"204","Ficus","caulocarpa",NA,"","kew-2809870",TRUE,"1.1","Accepted","Moraceae","Ficus","","caulocarpa","","(Miq.) Miq.","kew-2809870",FALSE,FALSE
+"205","Ficus","irisana",NA,"","kew-2810884",TRUE,"1.1","Synonym","Moraceae","Ficus","","ampelas","","Burm.f.","kew-2809444",FALSE,FALSE
+"206","Ficus","microcarpa",NA,"","kew-2811321",TRUE,"1.1","Accepted","Moraceae","Ficus","","microcarpa","","L.f.","kew-2811321",FALSE,FALSE
+"207","Ficus","superba",NA,"","kew-2812491",TRUE,"1.1","Accepted","Moraceae","Ficus","","superba","","Miq.","kew-2812491",FALSE,FALSE
+"208","Ficus","virgata",NA,"","kew-2812789",TRUE,"1.1","Accepted","Moraceae","Ficus","","virgata","","Reinw. ex Blume","kew-2812789",FALSE,FALSE
+"209","Cordia","lomatoloba",NA,"","kew-2736960",TRUE,"1.1","Accepted","Boraginaceae","Cordia","","lomatoloba","","I.M.Johnst.","kew-2736960",FALSE,FALSE
+"210","Cecropia","obtusa",NA,"","kew-2707087",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","obtusa","","Trécul","kew-2707087",FALSE,FALSE
+"211","Goupia","glabra",NA,"","kew-2831531",TRUE,"1.1","Accepted","Goupiaceae","Goupia","","glabra","","Aubl.","kew-2831531",FALSE,FALSE
+"212","Licania","membranacea",NA,"","kew-353764",TRUE,"1.1","Accepted","Chrysobalanaceae","Licania","","membranacea","","Sagot ex Laness.","kew-353764",FALSE,FALSE
+"213","Ludovia","lancifolia",NA,"","kew-280555",TRUE,"1.1","Accepted","Cyclanthaceae","Ludovia","","lancifolia","","Brongn.","kew-280555",FALSE,FALSE
+"214","Drypetes","variabilis",NA,"","kew-65084",TRUE,"1.1","Accepted","Putranjivaceae","Drypetes","","variabilis","","Uittien","kew-65084",FALSE,FALSE
+"215","Mouriri","crassifolia",NA,"","tro-20301504",TRUE,"1.1","Accepted","Melastomataceae","Mouriri","","crassifolia","","Sagot","tro-20301504",FALSE,FALSE
+"216","Bagassa","guianensis",NA,"","kew-2667845",TRUE,"1.1","Accepted","Moraceae","Bagassa","","guianensis","","Aubl.","kew-2667845",FALSE,FALSE
+"217","Ficus","insipida",NA,"","kew-2810868",TRUE,"1.1","Accepted","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"218","Virola","michelii",NA,"","kew-2873146",TRUE,"1.1","Accepted","Myristicaceae","Virola","","michelii","","Heckel","kew-2873146",FALSE,FALSE
+"219","Minquarta","guinanensis",NA,"","",FALSE,"1.1","","","Minquarta","","guinanensis","","","",FALSE,FALSE
+"220","Moutabea","guianensis",NA,"","kew-2509715",TRUE,"1.1","Accepted","Polygalaceae","Moutabea","","guianensis","","Aubl.","kew-2509715",FALSE,FALSE
+"221","Quiina","obovata",NA,"","kew-2868538",TRUE,"1.1","Accepted","Ochnaceae","Quiina","","obovata","","Tul.","kew-2868538",FALSE,FALSE
+"222","Psychotria","carthaginensis",NA,"","kew-167558",TRUE,"1.1","Accepted","Rubiaceae","Psychotria","","carthagenensis","","Jacq.","kew-167558",TRUE,FALSE
+"223","Chrysophyllum","lucentifolium",NA,"","kew-40147",TRUE,"1.1","Accepted","Sapotaceae","Chrysophyllum","","lucentifolium","","Cronquist","kew-40147",FALSE,FALSE
+"224","Chrysophyllum","prieurii",NA,"","kew-40252",TRUE,"1.1","Accepted","Sapotaceae","Chrysophyllum","","prieurii","","A.DC.","kew-40252",FALSE,FALSE
+"225","Solanum","sp.",NA,"","",FALSE,"1.1","","","Solanum","","sp.","","","",FALSE,FALSE
+"226","Dieffenbachia","longispatha",NA,"","kew-61742",TRUE,"1.1","Accepted","Araceae","Dieffenbachia","","longispatha","","Engl. & K.Krause","kew-61742",FALSE,FALSE
+"227","Ipomoea","trifida",NA,"","tro-8500752",TRUE,"1.1","Accepted","Convolvulaceae","Ipomoea","","trifida","","(Kunth) G. Don","tro-8500752",FALSE,FALSE
+"228","Ficus","glabratand",NA,"","",FALSE,"1.1","","","Ficus","","glabratand","","","",FALSE,FALSE
+"229","Cecropia","cecropia",NA,"","",FALSE,"1.1","","","Cecropia","","cecropia","","","",FALSE,FALSE
+"230","Solanum","ochraceoferrugineum",NA,"","tro-29603187",TRUE,"1.1","Accepted","Solanaceae","Solanum","","ochraceo-ferrugineum","","Fernald","tro-29603187",TRUE,FALSE
+"231","Passiflora","foetida",NA,"","kew-2559676",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","foetida","","L.","kew-2559676",FALSE,FALSE
+"232","Artocarpus","altilis",NA,"","kew-2653919",TRUE,"1.1","Accepted","Moraceae","Artocarpus","","altilis","","(Parkinson ex F.A.Zorn) Fosberg","kew-2653919",FALSE,FALSE
+"233","Spondias","mombin",NA,"","kew-2480696",TRUE,"1.1","Accepted","Anacardiaceae","Spondias","","mombin","","L.","kew-2480696",FALSE,FALSE
+"234","Ceiba","pentandra",NA,"","kew-2707382",TRUE,"1.1","Accepted","Malvaceae","Ceiba","","pentandra","","(L.) Gaertn.","kew-2707382",FALSE,FALSE
+"235","Miconia.","sp.",NA,"","",FALSE,"1.1","","","Miconia.","","sp.","","","",FALSE,FALSE
+"236","Eichhornia","crassipe",NA,"","kew-242133",TRUE,"1.1","Accepted","Pontederiaceae","Eichhornia","","crassipes","","(Mart.) Solms","kew-242133",TRUE,FALSE
+"237","Plocama","pendula",NA,"","kew-161420",TRUE,"1.1","Accepted","Rubiaceae","Plocama","","pendula","","Aiton","kew-161420",FALSE,FALSE
+"238","Ziziphus","cinnamomum",NA,"","kew-2471021",TRUE,"1.1","Accepted","Rhamnaceae","Ziziphus","","cinnamomum","","Triana & Planch.","kew-2471021",FALSE,FALSE
+"239","Alepis","flavida",NA,"","kew-2628115",TRUE,"1.1","Accepted","Loranthaceae","Alepis","","flavida","","(Hook.f.) Tiegh.","kew-2628115",FALSE,FALSE
+"240","Peraxilla","colensoi",NA,"","tro-100356123",TRUE,"1.1","Accepted","Loranthaceae","Peraxilla","","colensoi","","(Hook. f.) Tiegh.","tro-100356123",FALSE,FALSE
+"241","Peraxilla","tetrapetala",NA,"","tro-50225787",TRUE,"1.1","Accepted","Loranthaceae","Peraxilla","","tetrapetala","","(L. f.) Tiegh.","tro-50225787",FALSE,FALSE
+"242","Ileostylus","micranthus",NA,"","kew-2860298",TRUE,"1.1","Unresolved","Loranthaceae","Ileostylus","","micranthus","","Tiegh.","kew-2860298",FALSE,FALSE
+"243","Tupeia","antarctica",NA,"","tro-100356150",TRUE,"1.1","Accepted","Loranthaceae","Tupeia","","antarctica","","(G. Forst.) Cham. & Schltdl.","tro-100356150",FALSE,FALSE
+"244","Nertera","granadensis",NA,"","kew-135230",TRUE,"1.1","Accepted","Rubiaceae","Nertera","","granadensis","","(Mutis ex L.f.) Druce","kew-135230",FALSE,FALSE
+"245","Miconia","cinnamomifolia",NA,"","tro-50172671",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","cinnamomifolia","","(DC.) Naudin","tro-50172671",FALSE,FALSE
+"246","Ficus","glabrata",NA,"","kew-2810557",TRUE,"1.1","Synonym","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"247","Retama","reatam",NA,"","",FALSE,"1.1","","","Retama","","reatam","","","",FALSE,FALSE
+"248","Opuntia","rastrera",NA,"","tro-5108195",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","rastrera","","F.A.C. Weber","tro-5108195",FALSE,FALSE
+"249","Stemmadenia","donnell-smithii",NA,"","kew-196989",TRUE,"1.1","Synonym","Apocynaceae","Tabernaemontana","","donnell-smithii","","Rose ex J.D.Sm.","kew-200676",FALSE,FALSE
+"250","Enterolobium","cyclocarpum",NA,"","ild-41453",TRUE,"1.1","Accepted","Leguminosae","Enterolobium","","cyclocarpum","","(Jacq.) Griseb.","ild-41453",FALSE,FALSE
+"251","Enterolobium","cyclocarpum",NA,"","ild-41453",TRUE,"1.1","Accepted","Leguminosae","Enterolobium","","cyclocarpum","","(Jacq.) Griseb.","ild-41453",FALSE,FALSE
+"252","Witheringia","solanacea",NA,"","kew-2450845",TRUE,"1.1","Accepted","Solanaceae","Witheringia","","solanacea","","L'Hér.","kew-2450845",FALSE,FALSE
+"253","Witheringia","solanacea",NA,"","kew-2450845",TRUE,"1.1","Accepted","Solanaceae","Witheringia","","solanacea","","L'Hér.","kew-2450845",FALSE,FALSE
+"254","Protorhus","sp.",NA,"","",FALSE,"1.1","","","Protorhus","","sp.","","","",FALSE,FALSE
+"255","Chrysophyllum","madagascariensis",NA,"","",FALSE,"1.1","","","Chrysophyllum","","madagascariensis","","","",FALSE,FALSE
+"256","Harungana","madagascariensis",NA,"","kew-2840115",TRUE,"1.1","Accepted","Hypericaceae","Harungana","","madagascariensis","","Lam. ex Poir.","kew-2840115",FALSE,FALSE
+"257","Cissus","sp.",NA,"","",FALSE,"1.1","","","Cissus","","sp.","","","",FALSE,FALSE
+"258","Eugenia","sp.",NA,"","",FALSE,"1.1","","","Eugenia","","sp.","","","",FALSE,FALSE
+"259","Piper","colonense",NA,"","kew-2557497",TRUE,"1.1","Accepted","Piperaceae","Piper","","colonense","","C.DC.","kew-2557497",FALSE,FALSE
+"260","Piper","peltatum",NA,"","kew-2569467",TRUE,"1.1","Accepted","Piperaceae","Piper","","peltatum","","L.","kew-2569467",FALSE,FALSE
+"261","Piper","reticulatum",NA,"","kew-2567702",TRUE,"1.1","Accepted","Piperaceae","Piper","","reticulatum","","L.","kew-2567702",FALSE,FALSE
+"262","Piper","sancti-felicis",NA,"","kew-2568507",TRUE,"1.1","Accepted","Piperaceae","Piper","","sancti-felicis","","Trel.","kew-2568507",FALSE,FALSE
+"263","Piper","silvivagum",NA,"","tro-25000922",TRUE,"1.1","Accepted","Piperaceae","Piper","","silvivagum","","C. DC.","tro-25000922",FALSE,FALSE
+"264","Carpobrotus","edulis",NA,"","kew-2701245",TRUE,"1.1","Accepted","Aizoaceae","Carpobrotus","","edulis","","(L.) N.E.Br.","kew-2701245",FALSE,FALSE
+"265","Carpobrotus","chilensis",NA,"","kew-2701239",TRUE,"1.1","Accepted","Aizoaceae","Carpobrotus","","chilensis","","(Molina) N.E.Br.","kew-2701239",FALSE,FALSE
+"266","Cleistopholis","glauca",NA,"","kew-2725511",TRUE,"1.1","Accepted","Annonaceae","Cleistopholis","","glauca","","Pierre ex Engl. & Diels","kew-2725511",FALSE,FALSE
+"267","Cleitsopholis","patens",NA,"","",FALSE,"1.1","","","Cleitsopholis","","patens","","","",FALSE,FALSE
+"268","Cleistoholis","sp.",NA,"","",FALSE,"1.1","","","Cleistoholis","","sp.","","","",FALSE,FALSE
+"269","Polyalthia","suaveolens",NA,"","kew-2407648",TRUE,"1.1","Synonym","Annonaceae","Greenwayodendron","","suaveolens","","(Engl. & Diels) Verdc.","kew-2831998",FALSE,FALSE
+"270","Xylopia","rubescens",NA,"","kew-2467893",TRUE,"1.1","Accepted","Annonaceae","Xylopia","","rubescens","","Oliv.","kew-2467893",FALSE,FALSE
+"271","Rauwolfia","macrocarpa",NA,"","",FALSE,"1.1","","","Rauwolfia","","macrocarpa","","","",FALSE,FALSE
+"272","Eremosphatha","macrocarpa",NA,"","",FALSE,"1.1","","","Eremosphatha","","macrocarpa","","","",FALSE,FALSE
+"273","Lacosperma","secundiflorum",NA,"","",FALSE,"1.1","","","Lacosperma","","secundiflorum","","","",FALSE,FALSE
+"274","Canarium","schweinfurthii",NA,"","kew-2696074",TRUE,"1.1","Accepted","Burseraceae","Canarium","","schweinfurtii","","Engl.","kew-2696074",TRUE,FALSE
+"275","Dacryodes","edulis",NA,"","kew-2755120",TRUE,"1.1","Accepted","Burseraceae","Dacryodes","","edulis","","(G.Don) H.J.Lam","kew-2755120",FALSE,FALSE
+"276","Euphorbiaceae","sp.",NA,"","",FALSE,"1.1","","","Euphorbiaceae","","sp.","","","",FALSE,FALSE
+"277","Beilschmiedia","sp.",NA,"","",FALSE,"1.1","","","Beilschmiedia","","sp.","","","",FALSE,FALSE
+"278","Trichilia","heudelotii",NA,"","kew-2514920",TRUE,"1.1","Accepted","Meliaceae","Trichilia","","heudelotii","","Planch. ex Oliv.","kew-2514920",FALSE,FALSE
+"279","Pycnanthus","angolensis",NA,"","kew-2552687",TRUE,"1.1","Accepted","Myristicaceae","Pycnanthus","","angolensis","","(Welw.) Warb.","kew-2552687",FALSE,FALSE
+"280","Staudtia","stipitata",NA,"","kew-2603350",TRUE,"1.1","Synonym","Myristicaceae","Staudtia","","kamerunensis","gabonensis","var.","kew-2603322",FALSE,FALSE
+"281","Heisteria","zimmeri",NA,"","",FALSE,"1.1","","","Heisteria","","zimmeri","","","",FALSE,FALSE
+"282","Maesopsis","eminii",NA,"","kew-2509037",TRUE,"1.1","Accepted","Rhamnaceae","Maesopsis","","eminii","","Engl.","kew-2509037",FALSE,FALSE
+"283","Lycopersicon","esculentum",NA,"","tro-29602513",TRUE,"1.1","Accepted","Solanaceae","Lycopersicon","","esculentum","","Mill.","tro-29602513",FALSE,FALSE
+"284","Acacia","raddiana",NA,"","ild-638",TRUE,"1.1","Synonym","Leguminosae","Acacia","","tortilis","raddiana","subsp.","ild-637",FALSE,FALSE
+"285","Acacia","tortilis",NA,"","ild-632",TRUE,"1.1","Accepted","Leguminosae","Acacia","","tortilis","","(Forssk.) Hayne","ild-632",FALSE,FALSE
+"286","Acacia","gerrardii",NA,"","ild-430",TRUE,"1.1","Accepted","Leguminosae","Acacia","","gerrardii","","Benth.","ild-430",FALSE,FALSE
+"287","Vaccinium","myrtillus",NA,"","kew-2457648",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","myrtillus","","L.","kew-2457648",FALSE,FALSE
+"288","Ficus","microcarpa",NA,"","kew-2811321",TRUE,"1.1","Accepted","Moraceae","Ficus","","microcarpa","","L.f.","kew-2811321",FALSE,FALSE
+"289","Uvaria","ovatat",NA,"","",FALSE,"1.1","","","Uvaria","","ovatat","","","",FALSE,FALSE
+"290","Carissa","edulis",NA,"","kew-34161",TRUE,"1.1","Synonym","Apocynaceae","Carissa","","spinarum","","L.","kew-34226",FALSE,FALSE
+"291","Rauvolfia","canescens",NA,"","kew-176822",TRUE,"1.1","Synonym","Apocynaceae","Rauvolfia","","tetraphylla","","L.","kew-176987",FALSE,FALSE
+"292","Ehretia","cymosa",NA,"","kew-2784701",TRUE,"1.1","Accepted","Boraginaceae","Ehretia","","cymosa","","Thonn.","kew-2784701",FALSE,FALSE
+"293","Capparis","erythrocarpos",NA,"","kew-2697154",TRUE,"1.1","Accepted","Capparaceae","Capparis","","erythrocarpos","","Isert","kew-2697154",FALSE,FALSE
+"294","Byrsocarpus","coccineus",NA,"","kew-2688061",TRUE,"1.1","Synonym","Connaraceae","Rourea","","coccinea","","(Schumach. & Thonn.) Benth.","kew-2415872",FALSE,FALSE
+"295","Securinega","virosa",NA,"","kew-190368",TRUE,"1.1","Synonym","Phyllanthaceae","Flueggea","","virosa","","(Roxb. ex Willd.) Royle","kew-84621",FALSE,FALSE
+"296","Flacourtia","flavescens",NA,"","kew-4813246",TRUE,"1.1","Accepted","Salicaceae","Flacourtia","","flavescens","","Willd.","kew-4813246",FALSE,FALSE
+"297","Hoslundia","opposita",NA,"","kew-100248",TRUE,"1.1","Accepted","Lamiaceae","Hoslundia","","opposita","","Vahl","kew-100248",FALSE,FALSE
+"298","Azadirachta","indica",NA,"","kew-2667002",TRUE,"1.1","Accepted","Meliaceae","Azadirachta","","indica","","A.Juss.","kew-2667002",FALSE,FALSE
+"299","Nauclea","latifolia",NA,"","kew-133213",TRUE,"1.1","Synonym","Rubiaceae","Sarcocephalus","","latifolius","","(Sm.) E.A.Bruce","kew-184881",FALSE,FALSE
+"300","Clausena","anisata",NA,"","kew-2724765",TRUE,"1.1","Accepted","Rutaceae","Clausena","","anisata","","(Willd.) Hook.f. ex Benth.","kew-2724765",FALSE,FALSE
+"301","Solanum","anomalum",NA,"","tro-29608341",TRUE,"1.1","Accepted","Solanaceae","Solanum","","anomalum","","Thonn.","tro-29608341",FALSE,FALSE
+"302","Lantana","camara",NA,"","kew-107934",TRUE,"1.1","Accepted","Verbenaceae","Lantana","","camara","","L.","kew-107934",FALSE,FALSE
+"303","Premna","quadrifolia",NA,"","kew-165118",TRUE,"1.1","Accepted","Lamiaceae","Premna","","quadrifolia","","Schumach. & Thonn.","kew-165118",FALSE,FALSE
+"304","Vitex","doniana",NA,"","kew-213428",TRUE,"1.1","Accepted","Lamiaceae","Vitex","","doniana","","Sweet","kew-213428",FALSE,FALSE
+"305","Saxifraga","cernua",NA,"","kew-2585150",TRUE,"1.1","Accepted","Saxifragaceae","Saxifraga","","cernua","","L.","kew-2585150",FALSE,FALSE
+"306","Bartsia","alpina",NA,"","kew-2670487",TRUE,"1.1","Accepted","Orobanchaceae","Bartsia","","alpina","","L.","kew-2670487",FALSE,FALSE
+"307","Polygonum","vivparum",NA,"","kew-2574216",TRUE,"1.1","Synonym","Polygonaceae","Persicaria","","vivipara","","(L.) Ronse Decr.","kew-2572250",TRUE,FALSE
+"308","Chamaenerion","latifolium",NA,"","kew-2715632",TRUE,"1.1","Synonym","Onagraceae","Epilobium","","latifolium","","L.","kew-2790620",FALSE,FALSE
+"309","Oxyria","dignya",NA,"","",FALSE,"1.1","","","Oxyria","","dignya","","","",FALSE,FALSE
+"310","Cerastium","alpinum",NA,"","kew-2709871",TRUE,"1.1","Accepted","Caryophyllaceae","Cerastium","","alpinum","","L.","kew-2709871",FALSE,FALSE
+"311","Ranunculus","hyperboreus",NA,"","kew-2524069",TRUE,"1.1","Accepted","Ranunculaceae","Ranunculus","","hyperboreus","","Rottb.","kew-2524069",FALSE,FALSE
+"312","Salix","glauca",NA,"","kew-5000657",TRUE,"1.1","Accepted","Salicaceae","Salix","","glauca","","L.","kew-5000657",FALSE,FALSE
+"313","Saxifra","tricuspidata",NA,"","",FALSE,"1.1","","","Saxifra","","tricuspidata","","","",FALSE,FALSE
+"314","Pedicularis","hirsuta",NA,"","kew-2542741",TRUE,"1.1","Accepted","Orobanchaceae","Pedicularis","","hirsuta","","L.","kew-2542741",FALSE,FALSE
+"315","Betula","nana",NA,"","kew-21505",TRUE,"1.1","Accepted","Betulaceae","Betula","","nana","","L.","kew-21505",FALSE,FALSE
+"316","Luzula","parviflora",NA,"","kew-316588",TRUE,"1.1","Accepted","Juncaceae","Luzula","","parviflora","","(Ehrh.) Desv.","kew-316588",FALSE,FALSE
+"317","Gnaphalium","norvegicum",NA,"","gcc-94096",TRUE,"1.1","Accepted","Compositae","Gnaphalium","","norvegicum","","Gunnerus","gcc-94096",FALSE,FALSE
+"318","Sibbaldia","procumbens",NA,"","rjp-21",TRUE,"1.1","Accepted","Rosaceae","Sibbaldia","","procumbens","","L.","rjp-21",FALSE,FALSE
+"319","Veronica","alpina",NA,"","kew-2453888",TRUE,"1.1","Accepted","Plantaginaceae","Veronica","","alpina","","L.","kew-2453888",FALSE,FALSE
+"320","Silene","acaulis",NA,"","kew-2485026",TRUE,"1.1","Accepted","Caryophyllaceae","Silene","","acaulis","","(L.) Jacq.","kew-2485026",FALSE,FALSE
+"321","Stellaria","longipes",NA,"","kew-2481957",TRUE,"1.1","Accepted","Caryophyllaceae","Stellaria","","longipes","","Goldie","kew-2481957",FALSE,FALSE
+"322","Papaver","radicatum",NA,"","kew-2561557",TRUE,"1.1","Accepted","Papaveraceae","Papaver","","radicatum","","Rottb.","kew-2561557",FALSE,FALSE
+"323","Vaccinium","uliginosu",NA,"","kew-2457998",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","uliginosum","","L.","kew-2457998",TRUE,FALSE
+"324","Dryas","integrifolia",NA,"","rjp-5504",TRUE,"1.1","Accepted","Rosaceae","Dryas","","integrifolia","","Vahl","rjp-5504",FALSE,FALSE
+"325","Erjophorum","scheuchzeri",NA,"","",FALSE,"1.1","","","Erjophorum","","scheuchzeri","","","",FALSE,FALSE
+"326","Empetrum","nigrum",NA,"","kew-2788473",TRUE,"1.1","Accepted","Ericaceae","Empetrum","","nigrum","","L.","kew-2788473",FALSE,FALSE
+"327","Ficus","bengalensis",NA,"","kew-2809652",TRUE,"1.1","Accepted","Moraceae","Ficus","","benghalensis","","L.","kew-2809652",TRUE,FALSE
+"328","Apeiba","aspera",NA,"","kew-2643235",TRUE,"1.1","Synonym","Malvaceae","Apeiba","","glabra","","Aubl.","kew-2643243",FALSE,FALSE
+"329","Castilla","ulei",NA,"","kew-2704826",TRUE,"1.1","Accepted","Moraceae","Castilla","","ulei","","Warb.","kew-2704826",FALSE,FALSE
+"330","Cecropia","membranacea",NA,"","kew-2707072",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","membranacea","","Trécul","kew-2707072",FALSE,FALSE
+"331","Cecropria","sciadophylla",NA,"","",FALSE,"1.1","","","Cecropria","","sciadophylla","","","",FALSE,FALSE
+"332","Crepidospermum","rhoifolium",NA,"","kew-2742731",TRUE,"1.1","Accepted","Burseraceae","Crepidospermum","","rhoifolium","","(Benth.) Triana & Planch.","kew-2742731",FALSE,FALSE
+"333","Ficus","fomelleria",NA,"","",FALSE,"1.1","","","Ficus","","fomelleria","","","",FALSE,FALSE
+"334","Ficus","insipida",NA,"","kew-2810868",TRUE,"1.1","Accepted","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"335","Ficus","nymphaeifolia",NA,"","kew-2811495",TRUE,"1.1","Accepted","Moraceae","Ficus","","nymphaeifolia","","Mill.","kew-2811495",FALSE,FALSE
+"336","Gustavia","hexapetala",NA,"","kew-314025",TRUE,"1.1","Accepted","Lecythidaceae","Gustavia","","hexapetala","","(Aubl.) Sm.","kew-314025",FALSE,FALSE
+"337","Helicostylis","tomentosa",NA,"","kew-2843149",TRUE,"1.1","Accepted","Moraceae","Helicostylis","","tomentosa","","(Poepp. & Endl.) J.F.Macbr.","kew-2843149",FALSE,FALSE
+"338","Hyeronima","alchorneoides",NA,"","",FALSE,"1.1","","","Hyeronima","","alchorneoides","","","",FALSE,FALSE
+"339","Hymenaea","oblongifolia",NA,"","ild-11545",TRUE,"1.1","Accepted","Leguminosae","Hymenaea","","oblongifolia","","Huber","ild-11545",FALSE,FALSE
+"340","Inga","alba",NA,"","ild-19794",TRUE,"1.1","Accepted","Leguminosae","Inga","","alba","","(Sw.) Willd.","ild-19794",FALSE,FALSE
+"341","Inga","bonplandiana",NA,"","ild-11642",TRUE,"1.1","Accepted","Leguminosae","Inga","","bonplandiana","","Kunth","ild-11642",FALSE,FALSE
+"342","Inga","edulis",NA,"","ild-221",TRUE,"1.1","Accepted","Leguminosae","Inga","","edulis","","Mart.","ild-221",FALSE,FALSE
+"343","Jacratia","digitata",NA,"","",FALSE,"1.1","","","Jacratia","","digitata","","","",FALSE,FALSE
+"344","Najas","marina",NA,"","kew-308286",TRUE,"1.1","Accepted","Hydrocharitaceae","Najas","","marina","","L.","kew-308286",FALSE,FALSE
+"345","Rubia","fruticosa",NA,"","kew-180273",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","fruticosa","","Aiton","kew-180273",FALSE,FALSE
+"346","Solanum","nigra",NA,"","tro-29600125",TRUE,"1.1","Synonym","Solanaceae","Solanum","","americanum","","Mill.","tro-29600095",TRUE,FALSE
+"347","Solanum","luteum",NA,"","tro-29602606",TRUE,"1.1","Accepted","Solanaceae","Solanum","","luteum","","Mill.","tro-29602606",FALSE,FALSE
+"348","Myrtus","communis",NA,"","kew-132410",TRUE,"1.1","Accepted","Myrtaceae","Myrtus","","communis","","L.","kew-132410",FALSE,FALSE
+"349","Amelanchier","alnifolia",NA,"","rjp-4731",TRUE,"1.1","Accepted","Rosaceae","Amelanchier","","alnifolia","","(Nutt.) Nutt. ex M.Roem.","rjp-4731",FALSE,FALSE
+"350","Peraphyllum","ramosissimum",NA,"","rjp-5828",TRUE,"1.1","Accepted","Rosaceae","Peraphyllum","","ramosissimum","","Nutt. ex Torr. & A.Gray","rjp-5828",FALSE,FALSE
+"351","Prunus","virginiana",NA,"","rjp-72",TRUE,"1.1","Accepted","Rosaceae","Prunus","","virginiana","","L.","rjp-72",FALSE,FALSE
+"352","Mahonia","repens",NA,"","tro-3500253",TRUE,"1.1","Synonym","Berberidaceae","Berberis","","repens","","Lindl.","kew-2674362",FALSE,FALSE
+"353","Rhus","trilobata",NA,"","tro-1300191",TRUE,"1.1","Accepted","Anacardiaceae","Rhus","","trilobata","","Nutt.","tro-1300191",FALSE,FALSE
+"354","Symphoricarpos","oreophilus",NA,"","tro-6000163",TRUE,"1.1","Accepted","Caprifoliaceae","Symphoricarpos","","oreophilus","","A. Gray","tro-6000163",FALSE,FALSE
+"355","Sumbucus","cerulea",NA,"","",FALSE,"1.1","","","Sumbucus","","cerulea","","","",FALSE,FALSE
+"356","Gaultheria","mucronata",NA,"","kew-2817917",TRUE,"1.1","Accepted","Ericaceae","Gaultheria","","mucronata","","(L.f.) Hook. & Arn.","kew-2817917",FALSE,FALSE
+"357","Luma","apiculata",NA,"","kew-115598",TRUE,"1.1","Accepted","Myrtaceae","Luma","","apiculata","","(DC.) Burret","kew-115598",FALSE,FALSE
+"358","Myrceugenia","planipes",NA,"","kew-130974",TRUE,"1.1","Accepted","Myrtaceae","Myrceugenia","","planipes","","(Hook. & Arn.) O.Berg","kew-130974",FALSE,FALSE
+"359","Myrteola","nummularia",NA,"","kew-132138",TRUE,"1.1","Accepted","Myrtaceae","Myrteola","","nummularia","","(Lam.) O.Berg","kew-132138",FALSE,FALSE
+"360","Opuntia","maxima",NA,"","kew-2391633",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","maxima","","Mill.","kew-2391633",FALSE,FALSE
+"361","Campomanesia","sp.",NA,"","",FALSE,"1.1","","","Campomanesia","","sp.","","","",FALSE,FALSE
+"362","Campomanesia","pubescens",NA,"","kew-33226",TRUE,"1.1","Accepted","Myrtaceae","Campomanesia","","pubescens","","(Mart. ex DC.) O.Berg","kew-33226",FALSE,FALSE
+"363","Duguetia","furfuracea",NA,"","kew-2779094",TRUE,"1.1","Accepted","Annonaceae","Duguetia","","furfuracea","","(A.St.-Hil.) Saff.","kew-2779094",FALSE,FALSE
+"364","Melancium","campestre",NA,"","kew-2373169",TRUE,"1.1","Accepted","Cucurbitaceae","Melancium","","campestre","","Naudin","kew-2373169",FALSE,FALSE
+"365","Myrtaceae","sp.",NA,"","",FALSE,"1.1","","","Myrtaceae","","sp.","","","",FALSE,FALSE
+"366","Parinari","obtusifolia",NA,"","kew-355556",TRUE,"1.1","Accepted","Chrysobalanaceae","Parinari","","obtusifolia","","Hook.f.","kew-355556",FALSE,FALSE
+"367","Psidium","psidium",NA,"","",FALSE,"1.1","","","Psidium","","psidium","","","",FALSE,FALSE
+"368","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"369","Solanum","sisymbriifolium",NA,"","tro-29600144",TRUE,"1.1","Accepted","Solanaceae","Solanum","","sisymbriifolium","","Lam.","tro-29600144",FALSE,FALSE
+"370","Solanum","crinitum",NA,"","tro-29601347",TRUE,"1.1","Accepted","Solanaceae","Solanum","","crinitum","","Lam.","tro-29601347",FALSE,FALSE
+"371","Solanum","lycocarpum",NA,"","tro-29600117",TRUE,"1.1","Accepted","Solanaceae","Solanum","","lycocarpum","","A. St.-Hil.","tro-29600117",FALSE,FALSE
+"372","Syagrus","rommanzofiana",NA,"","",FALSE,"1.1","","","Syagrus","","rommanzofiana","","","",FALSE,FALSE
+"373","Sorbus","aucuparia",NA,"","rjp-68",TRUE,"1.1","Accepted","Rosaceae","Sorbus","","aucuparia","","L.","rjp-68",FALSE,FALSE
+"374","Betula","pendula",NA,"","kew-21582",TRUE,"1.1","Accepted","Betulaceae","Betula","","pendula","","Roth","kew-21582",FALSE,FALSE
+"375","Malus","sylvestris",NA,"","rjp-71",TRUE,"1.1","Accepted","Rosaceae","Malus","","sylvestris","","(L.) Mill.","rjp-71",FALSE,FALSE
+"376","Ribes","uvacrispa",NA,"","kew-2426619",TRUE,"1.1","Accepted","Grossulariaceae","Ribes","","uva-crispa","","L.","kew-2426619",TRUE,FALSE
+"377","Vaccinium","myrtillus",NA,"","kew-2457648",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","myrtillus","","L.","kew-2457648",FALSE,FALSE
+"378","Vitis","vinifera",NA,"","kew-2457006",TRUE,"1.1","Accepted","Vitaceae","Vitis","","vinifera","","L.","kew-2457006",FALSE,FALSE
+"379","Rubia","tenuifolia",NA,"","kew-180416",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","tenuifolia","","d'Urv.","kew-180416",FALSE,FALSE
+"380","Smilax","aspera",NA,"","kew-288512",TRUE,"1.1","Accepted","Smilacaceae","Smilax","","aspera","","L.","kew-288512",FALSE,FALSE
+"381","Osyris","alba",NA,"","kew-2396411",TRUE,"1.1","Accepted","Santalaceae","Osyris","","alba","","L.","kew-2396411",FALSE,FALSE
+"382","Pistacia","palaestina",NA,"","kew-2406990",TRUE,"1.1","Unresolved","Anacardiaceae","Pistacia","","palaestina","","Boiss.","kew-2406990",FALSE,FALSE
+"383","Rhamnus","palaestinus",NA,"","",FALSE,"1.1","","","Rhamnus","","palaestinus","","","",FALSE,FALSE
+"384","Apeiba","aspera",NA,"","kew-2643235",TRUE,"1.1","Synonym","Malvaceae","Apeiba","","glabra","","Aubl.","kew-2643243",FALSE,FALSE
+"385","Castilla","ulei",NA,"","kew-2704826",TRUE,"1.1","Accepted","Moraceae","Castilla","","ulei","","Warb.","kew-2704826",FALSE,FALSE
+"386","Cecropia","sciandophylla",NA,"","kew-2707133",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","sciadophylla","","Mart.","kew-2707133",TRUE,FALSE
+"387","Crepidospermum","rhoifolium",NA,"","kew-2742731",TRUE,"1.1","Accepted","Burseraceae","Crepidospermum","","rhoifolium","","(Benth.) Triana & Planch.","kew-2742731",FALSE,FALSE
+"388","Ficus","insipida",NA,"","kew-2810868",TRUE,"1.1","Accepted","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"389","Ficus","nymphaeifolia",NA,"","kew-2811495",TRUE,"1.1","Accepted","Moraceae","Ficus","","nymphaeifolia","","Mill.","kew-2811495",FALSE,FALSE
+"390","Gustavia","hexapetala",NA,"","kew-314025",TRUE,"1.1","Accepted","Lecythidaceae","Gustavia","","hexapetala","","(Aubl.) Sm.","kew-314025",FALSE,FALSE
+"391","Helicostylis","tomentosa",NA,"","kew-2843149",TRUE,"1.1","Accepted","Moraceae","Helicostylis","","tomentosa","","(Poepp. & Endl.) J.F.Macbr.","kew-2843149",FALSE,FALSE
+"392","Hyeronima","alchorneoides",NA,"","",FALSE,"1.1","","","Hyeronima","","alchorneoides","","","",FALSE,FALSE
+"393","Inga","alba",NA,"","ild-19794",TRUE,"1.1","Accepted","Leguminosae","Inga","","alba","","(Sw.) Willd.","ild-19794",FALSE,FALSE
+"394","Inga","edulis",NA,"","ild-221",TRUE,"1.1","Accepted","Leguminosae","Inga","","edulis","","Mart.","ild-221",FALSE,FALSE
+"395","Pourouma","bicolor",NA,"","kew-2408642",TRUE,"1.1","Accepted","Urticaceae","Pourouma","","bicolor","","Mart.","kew-2408642",FALSE,FALSE
+"396","Protium","sagotianum",NA,"","kew-2414348",TRUE,"1.1","Accepted","Burseraceae","Protium","","sagotianum","","Marchand","kew-2414348",FALSE,FALSE
+"397","Pseudolmedia","laevigata",NA,"","kew-2547524",TRUE,"1.1","Accepted","Moraceae","Pseudolmedia","","laevigata","","Trécul","kew-2547524",FALSE,FALSE
+"398","Sarcaulus","brasiliensis",NA,"","kew-184850",TRUE,"1.1","Accepted","Sapotaceae","Sarcaulus","","brasiliensis","","(A.DC.) Eyma","kew-184850",FALSE,FALSE
+"399","Simarouba","amara",NA,"","kew-2580434",TRUE,"1.1","Accepted","Simaroubaceae","Simarouba","","amara","","Aubl.","kew-2580434",FALSE,FALSE
+"400","Aliberia","handrantha",NA,"","",FALSE,"1.1","","","Aliberia","","handrantha","","","",FALSE,FALSE
+"401","Brosimum","lactescens",NA,"","kew-2683611",TRUE,"1.1","Accepted","Moraceae","Brosimum","","lactescens","","(S.Moore) C.C.Berg","kew-2683611",FALSE,FALSE
+"402","Brsoimum","alicastrum",NA,"","",FALSE,"1.1","","","Brsoimum","","alicastrum","","","",FALSE,FALSE
+"403","Castilla","ulei",NA,"","kew-2704826",TRUE,"1.1","Accepted","Moraceae","Castilla","","ulei","","Warb.","kew-2704826",FALSE,FALSE
+"404","Coussapoa","orthoneura",NA,"","kew-2740675",TRUE,"1.1","Accepted","Urticaceae","Coussapoa","","orthoneura","","Standl.","kew-2740675",FALSE,FALSE
+"405","Ficus","pertusa",NA,"","kew-2811707",TRUE,"1.1","Accepted","Moraceae","Ficus","","pertusa","","L.f.","kew-2811707",FALSE,FALSE
+"406","Inga","edulis",NA,"","ild-221",TRUE,"1.1","Accepted","Leguminosae","Inga","","edulis","","Mart.","ild-221",FALSE,FALSE
+"407","Jacaratia","digitata",NA,"","kew-2332946",TRUE,"1.1","Accepted","Caricaceae","Jacaratia","","digitata","","(Poepp. & Endl.) Solms","kew-2332946",FALSE,FALSE
+"408","Leonia","crassa",NA,"","kew-2497295",TRUE,"1.1","Accepted","Violaceae","Leonia","","crassa","","L.B.Sm. & A.Fernández","kew-2497295",FALSE,FALSE
+"409","Oenocarpus","bataua",NA,"","kew-138049",TRUE,"1.1","Accepted","Arecaceae","Oenocarpus","","bataua","","Mart.","kew-138049",FALSE,FALSE
+"410","Protium","crenatum",NA,"","kew-2412232",TRUE,"1.1","Accepted","Burseraceae","Protium","","crenatum","","Sandwith","kew-2412232",FALSE,FALSE
+"411","Protium","sagotianum",NA,"","kew-2414348",TRUE,"1.1","Accepted","Burseraceae","Protium","","sagotianum","","Marchand","kew-2414348",FALSE,FALSE
+"412","Simarouba","amara",NA,"","kew-2580434",TRUE,"1.1","Accepted","Simaroubaceae","Simarouba","","amara","","Aubl.","kew-2580434",FALSE,FALSE
+"413","Trichilia","tuberculata",NA,"","tro-20400612",TRUE,"1.1","Accepted","Meliaceae","Trichilia","","tuberculata","","(Triana & Planch.) C. DC.","tro-20400612",FALSE,FALSE
+"414","Trichostigma","octandrum",NA,"","kew-2516510",TRUE,"1.1","Accepted","Phytolaccaceae","Trichostigma","","octandrum","","(L.) H.Walter","kew-2516510",FALSE,FALSE
+"415","Castilla","ulei",NA,"","kew-2704826",TRUE,"1.1","Accepted","Moraceae","Castilla","","ulei","","Warb.","kew-2704826",FALSE,FALSE
+"416","Coccoloba","densifrons",NA,"","kew-2729239",TRUE,"1.1","Accepted","Polygonaceae","Coccoloba","","densifrons","","Mart. ex Meisn.","kew-2729239",FALSE,FALSE
+"417","Ficus","insipida",NA,"","kew-2810868",TRUE,"1.1","Accepted","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"418","Inga","acreana",NA,"","ild-11615",TRUE,"1.1","Accepted","Leguminosae","Inga","","acreana","","Harms","ild-11615",FALSE,FALSE
+"419","Inga","cylindrica",NA,"","ild-19799",TRUE,"1.1","Accepted","Leguminosae","Inga","","cylindrica","","(Vell.) Mart.","ild-19799",FALSE,FALSE
+"420","Guapira","cuspidata",NA,"","kew-2833844",TRUE,"1.1","Accepted","Nyctaginaceae","Guapira","","cuspidata","","(Heimerl) Lundell","kew-2833844",FALSE,FALSE
+"421","Pseudomedia","laevis",NA,"","",FALSE,"1.1","","","Pseudomedia","","laevis","","","",FALSE,FALSE
+"422","Arum","hygrophilum",NA,"","kew-16171",TRUE,"1.1","Accepted","Araceae","Arum","","hygrophilum","","Boiss.","kew-16171",FALSE,FALSE
+"423","Asparagus","aphyllus",NA,"","kew-274949",TRUE,"1.1","Accepted","Asparagaceae","Asparagus","","aphyllus","","L.","kew-274949",FALSE,FALSE
+"424","Ephedra","campylopoda",NA,"","kew-332892",TRUE,"1.1","Synonym","Ephedraceae","Ephedra","","foeminea","","Forssk.","kew-332925",FALSE,FALSE
+"425","Morus","nigra",NA,"","kew-2501426",TRUE,"1.1","Accepted","Moraceae","Morus","","nigra","","L.","kew-2501426",FALSE,FALSE
+"426","Morus","alba",NA,"","kew-2501381",TRUE,"1.1","Accepted","Moraceae","Morus","","alba","","L.","kew-2501381",FALSE,FALSE
+"427","Myrtas","communis",NA,"","",FALSE,"1.1","","","Myrtas","","communis","","","",FALSE,FALSE
+"428","Rhamnus","alaternus",NA,"","kew-2525844",TRUE,"1.1","Accepted","Rhamnaceae","Rhamnus","","alaternus","","L.","kew-2525844",FALSE,FALSE
+"429","Rhamnus","palaestinus",NA,"","",FALSE,"1.1","","","Rhamnus","","palaestinus","","","",FALSE,FALSE
+"430","Rubia","tenuifolia",NA,"","kew-180416",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","tenuifolia","","d'Urv.","kew-180416",FALSE,FALSE
+"431","Rubas","sanctus",NA,"","",FALSE,"1.1","","","Rubas","","sanctus","","","",FALSE,FALSE
+"432","Smilax","aspera",NA,"","kew-288512",TRUE,"1.1","Accepted","Smilacaceae","Smilax","","aspera","","L.","kew-288512",FALSE,FALSE
+"433","Tamus","communis",NA,"","kew-267905",TRUE,"1.1","Synonym","Dioscoreaceae","Dioscorea","","communis","","(L.) Caddick & Wilkin","kew-239990",FALSE,FALSE
+"434","Tamus","orientalis",NA,"","kew-267916",TRUE,"1.1","Synonym","Dioscoreaceae","Dioscorea","","orientalis","","(J.Thiébaut) Caddick & Wilkin","kew-240607",FALSE,FALSE
+"435","Viscum","cruciatum",NA,"","kew-2461883",TRUE,"1.1","Accepted","Santalaceae","Viscum","","cruciatum","","Sieber ex Boiss.","kew-2461883",FALSE,FALSE
+"436","Coprosma","propinqua",NA,"","kew-46903",TRUE,"1.1","Accepted","Rubiaceae","Coprosma","","propinqua","","A.Cunn.","kew-46903",FALSE,FALSE
+"437","Morus","nigra",NA,"","kew-2501426",TRUE,"1.1","Accepted","Moraceae","Morus","","nigra","","L.","kew-2501426",FALSE,FALSE
+"438","Solanum","luteum",NA,"","tro-29602606",TRUE,"1.1","Accepted","Solanaceae","Solanum","","luteum","","Mill.","tro-29602606",FALSE,FALSE
+"439","Balanites","wilsoniana",NA,"","kew-19487",TRUE,"1.1","Accepted","Zygophyllaceae","Balanites","","wilsoniana","","Dawe & Sprague","kew-19487",FALSE,FALSE
+"440","Anonidium","mannii",NA,"","kew-2641336",TRUE,"1.1","Accepted","Annonaceae","Anonidium","","mannii","","(Oliv.) Engl. & Diels","kew-2641336",FALSE,FALSE
+"441","Antrocaryon","micraster",NA,"","kew-2643077",TRUE,"1.1","Accepted","Anacardiaceae","Antrocaryon","","micraster","","A.Chev. & Guillaumin","kew-2643077",FALSE,FALSE
+"442","Detarium","macrocarpa",NA,"","ild-1281",TRUE,"1.1","Accepted","Leguminosae","Detarium","","macrocarpum","","Harms","ild-1281",TRUE,FALSE
+"443","Dovyalis","zenkeri",NA,"","kew-4776142",TRUE,"1.1","Accepted","Salicaceae","Dovyalis","","zenkeri","","Gilg","kew-4776142",FALSE,FALSE
+"444","Duboscia","viridiflora",NA,"","kew-2778808",TRUE,"1.1","Accepted","Malvaceae","Duboscia","","viridiflora","","(K.Schum.) Mildbr.","kew-2778808",FALSE,FALSE
+"445","Irvingia","gabonensis",NA,"","kew-2866788",TRUE,"1.1","Accepted","Irvingiaceae","Irvingia","","gabonensis","","(Aubry-Lecomte ex O'Rorke) Baill.","kew-2866788",FALSE,FALSE
+"446","Irvingia","grandifolia",NA,"","kew-2866792",TRUE,"1.1","Accepted","Irvingiaceae","Irvingia","","grandifolia","","(Engl.) Engl.","kew-2866792",FALSE,FALSE
+"447","Klainedoxa","gabonensis",NA,"","kew-2336483",TRUE,"1.1","Accepted","Irvingiaceae","Klainedoxa","","gabonensis","","Pierre","kew-2336483",FALSE,FALSE
+"448","Mammea","africana",NA,"","kew-2369968",TRUE,"1.1","Accepted","Calophyllaceae","Mammea","","africana","","Sabine","kew-2369968",FALSE,FALSE
+"449","Myrianthus","arboreus",NA,"","kew-2369488",TRUE,"1.1","Accepted","Urticaceae","Myrianthus","","arboreus","","P.Beauv.","kew-2369488",FALSE,FALSE
+"450","Omphalocarpu","elatum",NA,"","",FALSE,"1.1","","","Omphalocarpu","","elatum","","","",FALSE,FALSE
+"451","Strychnos","aculeata",NA,"","kew-2598055",TRUE,"1.1","Accepted","Loganiaceae","Strychnos","","aculeata","","Soler.","kew-2598055",FALSE,FALSE
+"452","Panda","oleosa",NA,"","kew-146837",TRUE,"1.1","Accepted","Pandaceae","Panda","","oleosa","","Pierre","kew-146837",FALSE,FALSE
+"453","Poga","oleaosa",NA,"","tro-27600192",TRUE,"1.1","Accepted","Anisophylleaceae","Poga","","oleosa","","Pierre","tro-27600192",FALSE,FALSE
+"454","Prosopis","nigra",NA,"","ild-20362",TRUE,"1.1","Accepted","Leguminosae","Prosopis","","nigra","","Hieron.","ild-20362",FALSE,FALSE
+"455","Acacia","caven",NA,"","ild-24882",TRUE,"1.1","Accepted","Leguminosae","Acacia","","caven","","(Molina) Molina","ild-24882",FALSE,FALSE
+"456","Corema","album",NA,"","kew-2737495",TRUE,"1.1","Accepted","Ericaceae","Corema","","album","","(L.) D.Don","kew-2737495",FALSE,FALSE
+"457","Maesopsis","eminii",NA,"","kew-2509037",TRUE,"1.1","Accepted","Rhamnaceae","Maesopsis","","eminii","","Engl.","kew-2509037",FALSE,FALSE
+"458","Sorbus","commixta",NA,"","rjp-1353",TRUE,"1.1","Accepted","Rosaceae","Sorbus","","commixta","","Hedl.","rjp-1353",FALSE,FALSE
+"459","Thrinax","morrissii",NA,"","kew-203977",TRUE,"1.1","Synonym","Arecaceae","Leucothrinax","","morrisii","","(H.Wendl.) C.Lewis & Zona","kew-351387",TRUE,FALSE
+"460","Serenoa","repens",NA,"","kew-190787",TRUE,"1.1","Accepted","Arecaceae","Serenoa","","repens","","(W.Bartram) Small","kew-190787",FALSE,FALSE
+"461","Byrsonima","lucida",NA,"","kew-2688298",TRUE,"1.1","Accepted","Malpighiaceae","Byrsonima","","lucida","","(Mill.) DC.","kew-2688298",FALSE,FALSE
+"462","Prunus","sargentii",NA,"","rjp-19833",TRUE,"1.1","Accepted","Rosaceae","Prunus","","sargentii","","Rehder","rjp-19833",FALSE,FALSE
+"463","Prunus","ssiori",NA,"","rjp-15933",TRUE,"1.1","Accepted","Rosaceae","Prunus","","ssiori","","F.Schmidt","rjp-15933",FALSE,FALSE
+"464","Ficus","thunbergii",NA,"","kew-2812563",TRUE,"1.1","Accepted","Moraceae","Ficus","","thunbergii","","Maxim.","kew-2812563",FALSE,FALSE
+"465","Eurya","japonica",NA,"","kew-2804885",TRUE,"1.1","Accepted","Pentaphylacaceae","Eurya","","japonica","","Thunb.","kew-2804885",FALSE,FALSE
+"466","Vaccinium","bracteatum",NA,"","tro-12304497",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","bracteatum","","Thunb.","tro-12304497",FALSE,FALSE
+"467","Psychotria","serpens",NA,"","kew-169678",TRUE,"1.1","Accepted","Rubiaceae","Psychotria","","serpens","","L.","kew-169678",FALSE,FALSE
+"468","Myrsine","seguinii",NA,"","tro-22002104",TRUE,"1.1","Accepted","Primulaceae","Myrsine","","seguinii","","H. Lév.","tro-22002104",FALSE,FALSE
+"469","Diospyros","morrisiana",NA,"","kew-2770182",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","morrisiana","","Hance","kew-2770182",FALSE,FALSE
+"470","Neolitsea","sericea",NA,"","tro-17805852",TRUE,"1.1","Accepted","Lauraceae","Neolitsea","","sericea","","(Blume) Koidz.","tro-17805852",FALSE,FALSE
+"471","Eurya","emarginata",NA,"","kew-2804828",TRUE,"1.1","Accepted","Pentaphylacaceae","Eurya","","emarginata","","(Thunb.) Makino","kew-2804828",FALSE,FALSE
+"472","Acacia","collinsii",NA,"","ild-28174",TRUE,"1.1","Accepted","Leguminosae","Acacia","","collinsii","","Saff.","ild-28174",FALSE,FALSE
+"473","Billardiera","fusiformis",NA,"","kew-2675971",TRUE,"1.1","Accepted","Pittosporaceae","Billardiera","","fusiformis","","Labill.","kew-2675971",FALSE,FALSE
+"474","Rubia","fruticosa",NA,"","kew-180273",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","fruticosa","","Aiton","kew-180273",FALSE,FALSE
+"475","Rubia","fruticosa",NA,"","kew-180273",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","fruticosa","","Aiton","kew-180273",FALSE,FALSE
+"476","Ficus","microcarpa",NA,"","kew-2811321",TRUE,"1.1","Accepted","Moraceae","Ficus","","microcarpa","","L.f.","kew-2811321",FALSE,FALSE
+"477","Ficus","erecta",NA,"","kew-2810338",TRUE,"1.1","Accepted","Moraceae","Ficus","","erecta","","Thunb.","kew-2810338",FALSE,FALSE
+"478","Ficus","septica",NA,"","kew-2812275",TRUE,"1.1","Accepted","Moraceae","Ficus","","septica","","Burm.f.","kew-2812275",FALSE,FALSE
+"479","Ficus","benguetensis",NA,"","kew-2809654",TRUE,"1.1","Accepted","Moraceae","Ficus","","benguetensis","","Merr.","kew-2809654",FALSE,FALSE
+"480","Ficus","superba",NA,"","kew-2812491",TRUE,"1.1","Accepted","Moraceae","Ficus","","superba","","Miq.","kew-2812491",FALSE,FALSE
+"481","Ficus","virgata",NA,"","kew-2812789",TRUE,"1.1","Accepted","Moraceae","Ficus","","virgata","","Reinw. ex Blume","kew-2812789",FALSE,FALSE
+"482","Morus","australis",NA,"","tro-21301962",TRUE,"1.1","Accepted","Moraceae","Morus","","australis","","Poir.","tro-21301962",FALSE,FALSE
+"483","Acitnidia","ruga",NA,"","",FALSE,"1.1","","","Acitnidia","","ruga","","","",FALSE,FALSE
+"484","Calophyllum","inophyllum",NA,"","kew-2693350",TRUE,"1.1","Accepted","Clusiaceae","Calophyllum","","inophyllum","","L.","kew-2693350",FALSE,FALSE
+"485","Elaeagnus","glabra",NA,"","kew-2785071",TRUE,"1.1","Accepted","Elaeagnaceae","Elaeagnus","","glabra","","Thunb.","kew-2785071",FALSE,FALSE
+"486","Terminalia","catappa",NA,"","kew-2431102",TRUE,"1.1","Accepted","Combretaceae","Terminalia","","catappa","","L.","kew-2431102",FALSE,FALSE
+"487","Turraea","holstii",NA,"","kew-2515254",TRUE,"1.1","Accepted","Meliaceae","Turraea","","holstii","","Gürke","kew-2515254",FALSE,FALSE
+"488","Xymalos","monospora",NA,"","kew-2467226",TRUE,"1.1","Accepted","Monimiaceae","Xymalos","","monospora","","(Harv.) Baill.","kew-2467226",FALSE,FALSE
+"489","Psychotria","lauracea",NA,"","kew-168539",TRUE,"1.1","Accepted","Rubiaceae","Psychotria","","lauracea","","(K.Schum.) E.M.A.Petit","kew-168539",FALSE,FALSE
+"490","Leptonychia","usambarensis",NA,"","tro-30401614",TRUE,"1.1","Accepted","Malvaceae","Leptonychia","","usambarensis","","K. Schum.","tro-30401614",FALSE,FALSE
+"491","Xymalos","monospora",NA,"","kew-2467226",TRUE,"1.1","Accepted","Monimiaceae","Xymalos","","monospora","","(Harv.) Baill.","kew-2467226",FALSE,FALSE
+"492","Annona","cherimola",NA,"","kew-2640812",TRUE,"1.1","Accepted","Annonaceae","Annona","","cherimola","","Mill.","kew-2640812",FALSE,FALSE
+"493","Arctostaphylos","glauca",NA,"","kew-2647217",TRUE,"1.1","Accepted","Ericaceae","Arctostaphylos","","glauca","","Lindl.","kew-2647217",FALSE,FALSE
+"494","Arctostaphylos.","sp.",NA,"","",FALSE,"1.1","","","Arctostaphylos.","","sp.","","","",FALSE,FALSE
+"495","Cucumis.","sp.",NA,"","",FALSE,"1.1","","","Cucumis.","","sp.","","","",FALSE,FALSE
+"496","Ficus.","sp.",NA,"","",FALSE,"1.1","","","Ficus.","","sp.","","","",FALSE,FALSE
+"497","Gragaria.","sp.",NA,"","",FALSE,"1.1","","","Gragaria.","","sp.","","","",FALSE,FALSE
+"498","Heteromeles","arbutifolia",NA,"","rjp-24374",TRUE,"1.1","Unresolved","Rosaceae","Heteromeles","","arbutifolia","","Greene","rjp-24374",FALSE,FALSE
+"499","Lycopersicon","esculentum",NA,"","tro-29602513",TRUE,"1.1","Accepted","Solanaceae","Lycopersicon","","esculentum","","Mill.","tro-29602513",FALSE,FALSE
+"500","Opuntia","littoralis",NA,"","tro-5100617",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","littoralis","","(Engelm.) Cockerell","tro-5100617",FALSE,FALSE
+"501","Panicum","miliaceum",NA,"","kew-429269",TRUE,"1.1","Accepted","Poaceae","Panicum","","miliaceum","","L.","kew-429269",FALSE,FALSE
+"502","Phoenix","sp.",NA,"","",FALSE,"1.1","","","Phoenix","","sp.","","","",FALSE,FALSE
+"503","Prosopis","glandulosa",NA,"","ild-154",TRUE,"1.1","Accepted","Leguminosae","Prosopis","","glandulosa","","Torr.","ild-154",FALSE,FALSE
+"504","Prunus","ilicifolia",NA,"","rjp-5902",TRUE,"1.1","Accepted","Rosaceae","Prunus","","ilicifolia","","(Nutt. ex Hook. & Arn.) D.Dietr.","rjp-5902",FALSE,FALSE
+"505","Prunus","sp.",NA,"","",FALSE,"1.1","","","Prunus","","sp.","","","",FALSE,FALSE
+"506","Pyracantha","sp.",NA,"","",FALSE,"1.1","","","Pyracantha","","sp.","","","",FALSE,FALSE
+"507","Vitis","sp.",NA,"","",FALSE,"1.1","","","Vitis","","sp.","","","",FALSE,FALSE
+"508","Lonicera","maackii",NA,"","tro-6000471",TRUE,"1.1","Accepted","Caprifoliaceae","Lonicera","","maackii","","(Rupr.) Maxim.","tro-6000471",FALSE,FALSE
+"509","Rhamnus","alaternus",NA,"","kew-2525844",TRUE,"1.1","Accepted","Rhamnaceae","Rhamnus","","alaternus","","L.","kew-2525844",FALSE,FALSE
+"510","Ficus","sp.",NA,"","",FALSE,"1.1","","","Ficus","","sp.","","","",FALSE,FALSE
+"511","Aechmea","sp.",NA,"","",FALSE,"1.1","","","Aechmea","","sp.","","","",FALSE,FALSE
+"512","Genipa","americana",NA,"","kew-89085",TRUE,"1.1","Accepted","Rubiaceae","Genipa","","americana","","L.","kew-89085",FALSE,FALSE
+"513","Actinidia","chinensis",NA,"","kew-2620644",TRUE,"1.1","Accepted","Actinidiaceae","Actinidia","","chinensis","","Planch.","kew-2620644",FALSE,FALSE
+"514","Rubia","fruticosa",NA,"","kew-180273",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","fruticosa","","Aiton","kew-180273",FALSE,FALSE
+"515","Adansonia","rubrostipa",NA,"","kew-2621148",TRUE,"1.1","Synonym","Malvaceae","Adansonia","","fony","rubrostipa","var.","kew-2621137",FALSE,FALSE
+"516","Ficus","montana",NA,"","kew-2811382",TRUE,"1.1","Accepted","Moraceae","Ficus","","montana","","Burm.f.","kew-2811382",FALSE,FALSE
+"517","Casearia","lasiphylla",NA,"","kew-4702204",TRUE,"1.1","Accepted","Salicaceae","Casearia","","lasiophylla","","Eichler","kew-4702204",TRUE,FALSE
+"518","Cecropia","pachstachya",NA,"","kew-2707092",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","pachystachya","","Trécul","kew-2707092",TRUE,FALSE
+"519","Ficus","obtusifolia",NA,"","kew-2811522",TRUE,"1.1","Accepted","Moraceae","Ficus","","obtusifolia","","Kunth","kew-2811522",FALSE,FALSE
+"520","Guazuma","ulmifolia",NA,"","kew-2834705",TRUE,"1.1","Accepted","Malvaceae","Guazuma","","ulmifolia","","Lam.","kew-2834705",FALSE,FALSE
+"521","Lithraea","molleoides",NA,"","kew-2342605",TRUE,"1.1","Accepted","Anacardiaceae","Lithraea","","molleoides","","(Vell.) Engl.","kew-2342605",FALSE,FALSE
+"522","Myrcia","guajavaefolia",NA,"","",FALSE,"1.1","","","Myrcia","","guajavaefolia","","","",FALSE,FALSE
+"523","Diospyros","egrettarum",NA,"","kew-2769651",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","egrettarum","","I.Richardson","kew-2769651",FALSE,FALSE
+"524","Ligustrum","robustum",NA,"","kew-354127",TRUE,"1.1","Accepted","Oleaceae","Ligustrum","","robustum","","(Roxb.) Blume","kew-354127",FALSE,FALSE
+"525","Clidemia","hirta",NA,"","tro-20302133",TRUE,"1.1","Accepted","Melastomataceae","Clidemia","","hirta","","(L.) D. Don","tro-20302133",FALSE,FALSE
+"526","Cordia","alba",NA,"","kew-2736524",TRUE,"1.1","Accepted","Boraginaceae","Cordia","","alba","","(Jacq.) Roem. & Schult.","kew-2736524",FALSE,FALSE
+"527","Momordica","charantia",NA,"","kew-2372864",TRUE,"1.1","Accepted","Cucurbitaceae","Momordica","","charantia","","L.","kew-2372864",FALSE,FALSE
+"528","Pithecellobium","dulce",NA,"","ild-243",TRUE,"1.1","Accepted","Leguminosae","Pithecellobium","","dulce","","(Roxb.) Benth.","ild-243",FALSE,FALSE
+"529","Lycopersicon","esculentum",NA,"","tro-29602513",TRUE,"1.1","Accepted","Solanaceae","Lycopersicon","","esculentum","","Mill.","tro-29602513",FALSE,FALSE
+"530","Ficus","pertusa",NA,"","kew-2811707",TRUE,"1.1","Accepted","Moraceae","Ficus","","pertusa","","L.f.","kew-2811707",FALSE,FALSE
+"531","Ficus","perforata",NA,"","kew-2811694",TRUE,"1.1","Synonym","Moraceae","Ficus","","americana","","Aubl.","kew-2809441",FALSE,FALSE
+"532","Berberis","empetrifolia",NA,"","kew-2673747",TRUE,"1.1","Accepted","Berberidaceae","Berberis","","empetrifolia","","Lam.","kew-2673747",FALSE,FALSE
+"533","Ormosia","macrocalyx",NA,"","ild-14599",TRUE,"1.1","Accepted","Leguminosae","Ormosia","","macrocalyx","","Ducke","ild-14599",FALSE,FALSE
+"534","Ormosia","bopiensi",NA,"","ild-14579",TRUE,"1.1","Accepted","Leguminosae","Ormosia","","bopiensis","","J.F.Macbr.","ild-14579",TRUE,FALSE
+"535","Prunus","jamasakura",NA,"","rjp-25981",TRUE,"1.1","Synonym","Rosaceae","Cerasus","","jamasakura","jamasakura","","rjp-36799",FALSE,FALSE
+"536","Afamomum","excarpum",NA,"","",FALSE,"1.1","","","Afamomum","","excarpum","","","",FALSE,FALSE
+"537","Cynometra","megalophylla",NA,"","ild-1243",TRUE,"1.1","Accepted","Leguminosae","Cynometra","","megalophylla","","Harms","ild-1243",FALSE,FALSE
+"538","Dialium","guineense",NA,"","ild-1307",TRUE,"1.1","Accepted","Leguminosae","Dialium","","guineense","","Willd.","ild-1307",FALSE,FALSE
+"539","Diospyros","mespiliformis",NA,"","kew-2770144",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","mespiliformis","","Hochst. ex A.DC.","kew-2770144",FALSE,FALSE
+"540","Drypetes","floribunda",NA,"","kew-64863",TRUE,"1.1","Accepted","Putranjivaceae","Drypetes","","floribunda","","(Müll.Arg.) Hutch.","kew-64863",FALSE,FALSE
+"541","Keetia","sp.",NA,"","",FALSE,"1.1","","","Keetia","","sp.","","","",FALSE,FALSE
+"542","Lannea","acida",NA,"","kew-2340805",TRUE,"1.1","Accepted","Anacardiaceae","Lannea","","acida","","A.Rich.","kew-2340805",FALSE,FALSE
+"543","Lannea","barteri",NA,"","kew-2340833",TRUE,"1.1","Accepted","Anacardiaceae","Lannea","","barteri","","(Oliv.) Engl.","kew-2340833",FALSE,FALSE
+"544","Lannea","welwitschii",NA,"","kew-2340792",TRUE,"1.1","Accepted","Anacardiaceae","Lannea","","welwitschii","","(Hiern) Engl.","kew-2340792",FALSE,FALSE
+"545","Manilkara","obovata",NA,"","kew-120222",TRUE,"1.1","Accepted","Sapotaceae","Manilkara","","obovata","","(Sabine & G.Don) J.H.Hemsl.","kew-120222",FALSE,FALSE
+"546","Oxyanthus","racemosus",NA,"","kew-144985",TRUE,"1.1","Accepted","Rubiaceae","Oxyanthus","","racemosus","","(Schumach. & Thonn.) Keay","kew-144985",FALSE,FALSE
+"547","Parkia","biglobosa",NA,"","ild-25404",TRUE,"1.1","Accepted","Leguminosae","Parkia","","biglobosa","","(Jacq.) G.Don","ild-25404",FALSE,FALSE
+"548","Pouteria","alnifolia",NA,"","kew-163901",TRUE,"1.1","Accepted","Sapotaceae","Pouteria","","alnifolia","","(Baker) Roberty","kew-163901",FALSE,FALSE
+"549","Saba","senegalensis",NA,"","kew-181006",TRUE,"1.1","Accepted","Apocynaceae","Saba","","senegalensis","","(A.DC.) Pichon","kew-181006",FALSE,FALSE
+"550","Sarcocephalus","latifoius",NA,"","kew-184881",TRUE,"1.1","Accepted","Rubiaceae","Sarcocephalus","","latifolius","","(Sm.) E.A.Bruce","kew-184881",TRUE,FALSE
+"551","Tamarindus","indica",NA,"","ild-1720",TRUE,"1.1","Accepted","Leguminosae","Tamarindus","","indica","","L.","ild-1720",FALSE,FALSE
+"552","Tapura","fischeri",NA,"","kew-2431580",TRUE,"1.1","Accepted","Dichapetalaceae","Tapura","","fischeri","","Engl.","kew-2431580",FALSE,FALSE
+"553","Uapaca","togoensis",NA,"","kew-209671",TRUE,"1.1","Accepted","Phyllanthaceae","Uapaca","","togoensis","","Pax","kew-209671",FALSE,FALSE
+"554","Uvaria","chamae",NA,"","kew-2447564",TRUE,"1.1","Accepted","Annonaceae","Uvaria","","chamae","","P.Beauv.","kew-2447564",FALSE,FALSE
+"555","Tapirira","guianensis",NA,"","kew-2436204",TRUE,"1.1","Accepted","Anacardiaceae","Tapirira","","guianensis","","Aubl.","kew-2436204",FALSE,FALSE
+"556","Rollinia","dolabripetala",NA,"","kew-2422325",TRUE,"1.1","Accepted","Annonaceae","Rollinia","","dolabripetala","","(Raddi) G.Don","kew-2422325",FALSE,FALSE
+"557","Cecropis","hololeuca",NA,"","",FALSE,"1.1","","","Cecropis","","hololeuca","","","",FALSE,FALSE
+"558","Cecropia","pachystachya",NA,"","kew-2707092",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","pachystachya","","Trécul","kew-2707092",FALSE,FALSE
+"559","Pourouma","guianensis",NA,"","kew-2408770",TRUE,"1.1","Accepted","Urticaceae","Pourouma","","guianensis","","Aubl.","kew-2408770",FALSE,FALSE
+"560","NA","na",NA,"","",FALSE,"1.1","","","NA","","na","","","",FALSE,FALSE
+"561","Inga","thibaudiana",NA,"","ild-12252",TRUE,"1.1","Accepted","Leguminosae","Inga","","thibaudiana","","DC.","ild-12252",FALSE,FALSE
+"562","Inga","edulis",NA,"","ild-221",TRUE,"1.1","Accepted","Leguminosae","Inga","","edulis","","Mart.","ild-221",FALSE,FALSE
+"563","Miconia","hypoleuca",NA,"","tro-20301106",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","hypoleuca","","(Benth.) Triana","tro-20301106",FALSE,FALSE
+"564","Miconia","latecrenata",NA,"","tro-50172707",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","latecrenata","","(DC.) Naudin","tro-50172707",FALSE,FALSE
+"565","Miconia","lepidota",NA,"","tro-20301138",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","lepidota","","Schrank & Mart. ex DC.","tro-20301138",FALSE,FALSE
+"566","Henriettea","saldanhei",NA,"","tro-50308097",TRUE,"1.1","Accepted","Melastomataceae","Henriettea","","saldanhaei","","Cogn.","tro-50308097",TRUE,FALSE
+"567","Calyptranthes","lucida",NA,"","kew-32444",TRUE,"1.1","Accepted","Myrtaceae","Calyptranthes","","lucida","","Mart. ex DC.","kew-32444",FALSE,FALSE
+"568","Myrcia","sp.",NA,"","",FALSE,"1.1","","","Myrcia","","sp.","","","",FALSE,FALSE
+"569","Marlierea","sp.",NA,"","",FALSE,"1.1","","","Marlierea","","sp.","","","",FALSE,FALSE
+"570","NA","na",NA,"","",FALSE,"1.1","","","NA","","na","","","",FALSE,FALSE
+"571","Campomanesia","eugenioides",NA,"","kew-33159",TRUE,"1.1","Accepted","Myrtaceae","Campomanesia","","eugenioides","","(Cambess.) D.Legrand ex Landrum","kew-33159",FALSE,FALSE
+"572","Passiflora","rhamnifolia",NA,"","tro-24201257",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","rhamnifolia","","Mast.","tro-24201257",FALSE,FALSE
+"573","Tocoyena","brasiliensis",NA,"","kew-206896",TRUE,"1.1","Accepted","Rubiaceae","Tocoyena","","brasiliensis","","Mart.","kew-206896",FALSE,FALSE
+"574","Randia","sp.",NA,"","",FALSE,"1.1","","","Randia","","sp.","","","",FALSE,FALSE
+"575","Posoqueria","latifolia",NA,"","kew-163583",TRUE,"1.1","Accepted","Rubiaceae","Posoqueria","","latifolia","","(Rudge) Schult.","kew-163583",FALSE,FALSE
+"576","Sarcaulus","brasiliensis",NA,"","kew-184850",TRUE,"1.1","Accepted","Sapotaceae","Sarcaulus","","brasiliensis","","(A.DC.) Eyma","kew-184850",FALSE,FALSE
+"577","Micropholis","gardneriana",NA,"","kew-127539",TRUE,"1.1","Accepted","Sapotaceae","Micropholis","","gardneriana","","(A.DC.) Pierre","kew-127539",FALSE,FALSE
+"578","Crataegus","pubescens",NA,"","rjp-1714",TRUE,"1.1","Synonym","Rosaceae","Crataegus","","orientalis","presliana","K.I.Chr.","rjp-2856",FALSE,FALSE
+"579","Prunus","serotina",NA,"","rjp-256",TRUE,"1.1","Accepted","Rosaceae","Prunus","","serotina","","Ehrh.","rjp-256",FALSE,FALSE
+"580","Salix","bonplandiana",NA,"","kew-5001737",TRUE,"1.1","Accepted","Salicaceae","Salix","","bonplandiana","","Kunth","kew-5001737",FALSE,FALSE
+"581","Trewia","nudiflora",NA,"","",FALSE,"1.1","","","Trewia","","nudiflora","","","",FALSE,FALSE
+"582","Mimusops","elengi",NA,"","kew-128461",TRUE,"1.1","Accepted","Sapotaceae","Mimusops","","elengi","","L.","kew-128461",FALSE,FALSE
+"583","Diospyros","fasciculosa",NA,"","kew-2769706",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","fasciculosa","","(F.Muell.) F.Muell.","kew-2769706",FALSE,FALSE
+"584","Vitex","collina",NA,"","kew-213393",TRUE,"1.1","Accepted","Lamiaceae","Vitex","","collina","","(Montrouz.) Beauvis.","kew-213393",FALSE,FALSE
+"585","Santalum","austrocaledonicum",NA,"","tro-50198283",TRUE,"1.1","Unresolved","Santalaceae","Santalum","","austrocaledonicum","","Vieill.","tro-50198283",FALSE,FALSE
+"586","Prumnopitys","ferruginea",NA,"","kew-2570230",TRUE,"1.1","Accepted","Podocarpaceae","Prumnopitys","","ferruginea","","(G.Benn. ex D.Don) de Laub.","kew-2570230",FALSE,FALSE
+"587","Berberis","glaucocarpa",NA,"","kew-2673827",TRUE,"1.1","Accepted","Berberidaceae","Berberis","","glaucocarpa","","Stapf","kew-2673827",FALSE,FALSE
+"588","Cotoneaster","sp.",NA,"","",FALSE,"1.1","","","Cotoneaster","","sp.","","","",FALSE,FALSE
+"589","Crataegus","monogyna",NA,"","rjp-49",TRUE,"1.1","Accepted","Rosaceae","Crataegus","","monogyna","","Jacq.","rjp-49",FALSE,FALSE
+"590","Illex","aquifolium",NA,"","",FALSE,"1.1","","","Illex","","aquifolium","","","",FALSE,FALSE
+"591","Leycesteria","formosa",NA,"","kew-2337367",TRUE,"1.1","Accepted","Caprifoliaceae","Leycesteria","","formosa","","Wall.","kew-2337367",FALSE,FALSE
+"592","Ligustrum","sinense",NA,"","kew-353849",TRUE,"1.1","Accepted","Oleaceae","Ligustrum","","sinense","","Lour.","kew-353849",FALSE,FALSE
+"593","Lonicera","japonica",NA,"","kew-2339716",TRUE,"1.1","Accepted","Caprifoliaceae","Lonicera","","japonica","","Thunb.","kew-2339716",FALSE,FALSE
+"594","Passiflora","mollissima",NA,"","kew-2560473",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","mollissima","","(Kunth) L.H.Bailey","kew-2560473",FALSE,FALSE
+"595","Pyracantha","angustifolia",NA,"","rjp-6005",TRUE,"1.1","Accepted","Rosaceae","Pyracantha","","angustifolia","","(Franch.) C.K.Schneid.","rjp-6005",FALSE,FALSE
+"596","Sorbus","hupehensis",NA,"","rjp-6910",TRUE,"1.1","Synonym","Rosaceae","Sorbus","","discolor","","(Maxim.) Hedl.","rjp-44240",FALSE,FALSE
+"597","Coprosma","sp.",NA,"","",FALSE,"1.1","","","Coprosma","","sp.","","","",FALSE,FALSE
+"598","Prumnopitys","ferruginea",NA,"","kew-2570230",TRUE,"1.1","Accepted","Podocarpaceae","Prumnopitys","","ferruginea","","(G.Benn. ex D.Don) de Laub.","kew-2570230",FALSE,FALSE
+"599","Solanum","aviculare",NA,"","tro-29600097",TRUE,"1.1","Accepted","Solanaceae","Solanum","","aviculare","","G. Forst.","tro-29600097",FALSE,FALSE
+"600","Acacia","pennatula",NA,"","ild-19908",TRUE,"1.1","Accepted","Leguminosae","Acacia","","pennatula","","(Schltdl. & Cham.) Benth.","ild-19908",FALSE,FALSE
+"601","Enterolobium","cyclocarpum",NA,"","ild-41453",TRUE,"1.1","Accepted","Leguminosae","Enterolobium","","cyclocarpum","","(Jacq.) Griseb.","ild-41453",FALSE,FALSE
+"602","Guazuma","ulmifolia",NA,"","kew-2834705",TRUE,"1.1","Accepted","Malvaceae","Guazuma","","ulmifolia","","Lam.","kew-2834705",FALSE,FALSE
+"603","Clematoclethra","scandens",NA,"","kew-2727067",TRUE,"1.1","Accepted","Actinidiaceae","Clematoclethra","","scandens","","(Franch.) Maxim.","kew-2727067",FALSE,FALSE
+"604","Actinidia","chinensis",NA,"","kew-2620644",TRUE,"1.1","Accepted","Actinidiaceae","Actinidia","","chinensis","","Planch.","kew-2620644",FALSE,FALSE
+"605","Hovenia","dulcis",NA,"","kew-2853957",TRUE,"1.1","Accepted","Rhamnaceae","Hovenia","","dulcis","","Thunb.","kew-2853957",FALSE,FALSE
+"606","Dendrobenthamia","japonica",NA,"","kew-56951",TRUE,"1.1","Synonym","Cornaceae","Cornus","","kousa","kousa","","kew-47418",FALSE,FALSE
+"607","Ficus","insipida",NA,"","kew-2810868",TRUE,"1.1","Accepted","Moraceae","Ficus","","insipida","","Willd.","kew-2810868",FALSE,FALSE
+"608","Ficus","maxima",NA,"","kew-2811280",TRUE,"1.1","Accepted","Moraceae","Ficus","","maxima","","Mill.","kew-2811280",FALSE,FALSE
+"609","Ficus","yoponensis",NA,"","kew-2812862",TRUE,"1.1","Accepted","Moraceae","Ficus","","yoponensis","","Desv.","kew-2812862",FALSE,FALSE
+"610","Ficus","nymphiifolia",NA,"","",FALSE,"1.1","","","Ficus","","nymphiifolia","","","",FALSE,FALSE
+"611","Ficus","obtusifolia",NA,"","kew-2811522",TRUE,"1.1","Accepted","Moraceae","Ficus","","obtusifolia","","Kunth","kew-2811522",FALSE,FALSE
+"612","Ficus","popenoei",NA,"","kew-2811803",TRUE,"1.1","Accepted","Moraceae","Ficus","","popenoei","","Standl.","kew-2811803",FALSE,FALSE
+"613","Banara","arguta",NA,"","kew-4668394",TRUE,"1.1","Accepted","Salicaceae","Banara","","arguta","","Briq.","kew-4668394",FALSE,FALSE
+"614","Ocotea","dispyrifolia",NA,"","kew-2401097",TRUE,"1.1","Accepted","Lauraceae","Ocotea","","diospyrifolia","","(Meisn.) Mez","kew-2401097",TRUE,FALSE
+"615","Eugenia","punicifolia",NA,"","kew-76536",TRUE,"1.1","Accepted","Myrtaceae","Eugenia","","punicifolia","","(Kunth) DC.","kew-76536",FALSE,FALSE
+"616","Cecropia","sp.",NA,"","",FALSE,"1.1","","","Cecropia","","sp.","","","",FALSE,FALSE
+"617","Cecropia.a","sp.",NA,"","",FALSE,"1.1","","","Cecropia.a","","sp.","","","",FALSE,FALSE
+"618","Duroia","duckei",NA,"","kew-65306",TRUE,"1.1","Accepted","Rubiaceae","Duroia","","duckei","","Huber","kew-65306",FALSE,FALSE
+"619","Bactris","maraja",NA,"","kew-18948",TRUE,"1.1","Accepted","Arecaceae","Bactris","","maraja","","Mart.","kew-18948",FALSE,FALSE
+"620","Bacins","bidentula",NA,"","",FALSE,"1.1","","","Bacins","","bidentula","","","",FALSE,FALSE
+"621","Crateva","tapia",NA,"","kew-2742390",TRUE,"1.1","Accepted","Capparaceae","Crateva","","tapia","","L.","kew-2742390",FALSE,FALSE
+"622","Cayaponia","cruegeri",NA,"","kew-2706399",TRUE,"1.1","Accepted","Cucurbitaceae","Cayaponia","","cruegeri","","(Naudin) Cogn.","kew-2706399",FALSE,FALSE
+"623","Annona","muricata",NA,"","kew-2640944",TRUE,"1.1","Accepted","Annonaceae","Annona","","muricata","","L.","kew-2640944",FALSE,FALSE
+"624","Cayaponia","tubulosa",NA,"","kew-2706491",TRUE,"1.1","Accepted","Cucurbitaceae","Cayaponia","","tubulosa","","Cogn.","kew-2706491",FALSE,FALSE
+"625","Genipa","spruceana",NA,"","kew-89143",TRUE,"1.1","Accepted","Rubiaceae","Genipa","","spruceana","","Steyerm.","kew-89143",FALSE,FALSE
+"626","Ternstroemia","penduliflora",NA,"","tro-31600225",TRUE,"1.1","Accepted","Pentaphylacaceae","Ternstroemia","","penduliflora","","Kobuski","tro-31600225",FALSE,FALSE
+"627","Leona","glycycarpa",NA,"","",FALSE,"1.1","","","Leona","","glycycarpa","","","",FALSE,FALSE
+"628","Dulacia","candida",NA,"","kew-2779186",TRUE,"1.1","Accepted","Olacaceae","Dulacia","","candida","","(Poepp.) Kuntze","kew-2779186",FALSE,FALSE
+"629","Carica","microcarpa",NA,"","kew-2700909",TRUE,"1.1","Synonym","Caricaceae","Vasconcellea","","microcarpa","","(Jacq.) A.DC.","kew-2456774",FALSE,FALSE
+"630","Mangifera","indica",NA,"","kew-2362842",TRUE,"1.1","Accepted","Anacardiaceae","Mangifera","","indica","","L.","kew-2362842",FALSE,FALSE
+"631","durio","sp.",NA,"","",FALSE,"1.1","","","durio","","sp.","","","",FALSE,FALSE
+"632","Artocampus","integer",NA,"","",FALSE,"1.1","","","Artocampus","","integer","","","",FALSE,FALSE
+"633","ephelium","lappaceum",NA,"","",FALSE,"1.1","","","ephelium","","lappaceum","","","",FALSE,FALSE
+"634","Garcinia","mangostana",NA,"","kew-2816978",TRUE,"1.1","Accepted","Clusiaceae","Garcinia","×","mangostana","","L.","kew-2816978",FALSE,FALSE
+"635","Tamarindus","indica",NA,"","ild-1720",TRUE,"1.1","Accepted","Leguminosae","Tamarindus","","indica","","L.","ild-1720",FALSE,FALSE
+"636","Dimocarpus","longan",NA,"","kew-2768547",TRUE,"1.1","Accepted","Sapindaceae","Dimocarpus","","longan","","Lour.","kew-2768547",FALSE,FALSE
+"637","dillenia","sp.",NA,"","",FALSE,"1.1","","","dillenia","","sp.","","","",FALSE,FALSE
+"638","Carica","papapya",NA,"","kew-2700919",TRUE,"1.1","Accepted","Caricaceae","Carica","","papaya","","L.","kew-2700919",TRUE,FALSE
+"639","Corema","album",NA,"","kew-2737495",TRUE,"1.1","Accepted","Ericaceae","Corema","","album","","(L.) D.Don","kew-2737495",FALSE,FALSE
+"640","Pyrus","bourgaeana",NA,"","rjp-9567",TRUE,"1.1","Accepted","Rosaceae","Pyrus","","bourgaeana","","Decne.","rjp-9567",FALSE,FALSE
+"641","Rubus","ulmifolius",NA,"","rjp-12",TRUE,"1.1","Accepted","Rosaceae","Rubus","","ulmifolius","","Schott","rjp-12",FALSE,FALSE
+"642","Genipa","americana",NA,"","kew-89085",TRUE,"1.1","Accepted","Rubiaceae","Genipa","","americana","","L.","kew-89085",FALSE,FALSE
+"643","Jacaratia","spinosa",NA,"","kew-2870238",TRUE,"1.1","Accepted","Caricaceae","Jacaratia","","spinosa","","(Aubl.) A.DC.","kew-2870238",FALSE,FALSE
+"644","Dimocarpus","longan",NA,"","kew-2768547",TRUE,"1.1","Accepted","Sapindaceae","Dimocarpus","","longan","","Lour.","kew-2768547",FALSE,FALSE
+"645","Carica","papaya",NA,"","kew-2700919",TRUE,"1.1","Accepted","Caricaceae","Carica","","papaya","","L.","kew-2700919",FALSE,FALSE
+"646","Manilkara","zapota",NA,"","kew-120271",TRUE,"1.1","Accepted","Sapotaceae","Manilkara","","zapota","","(L.) P.Royen","kew-120271",FALSE,FALSE
+"647","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"648","Melia","azedarach",NA,"","kew-2505106",TRUE,"1.1","Accepted","Meliaceae","Melia","","azedarach","","L.","kew-2505106",FALSE,FALSE
+"649","Eriobotrya","japonica",NA,"","rjp-1354",TRUE,"1.1","Accepted","Rosaceae","Eriobotrya","","japonica","","(Thunb.) Lindl.","rjp-1354",FALSE,FALSE
+"650","Morus","alba",NA,"","kew-2501381",TRUE,"1.1","Accepted","Moraceae","Morus","","alba","","L.","kew-2501381",FALSE,FALSE
+"651","Epomophorus","wahlbergi",NA,"","",FALSE,"1.1","","","Epomophorus","","wahlbergi","","","",FALSE,FALSE
+"652","Solanum","giganteum",NA,"","tro-29603565",TRUE,"1.1","Accepted","Solanaceae","Solanum","","giganteum","","Jacq.","tro-29603565",FALSE,FALSE
+"653","Solanum","mauritianum",NA,"","tro-29600120",TRUE,"1.1","Accepted","Solanaceae","Solanum","","mauritianum","","Scop.","tro-29600120",FALSE,FALSE
+"654","Psittacanthus","schiedeanus",NA,"","kew-2536410",TRUE,"1.1","Accepted","Loranthaceae","Psittacanthus","","schiedeanus","","(Schltdl. & Cham.) G.Don","kew-2536410",FALSE,FALSE
+"655","Solanum","giganteum",NA,"","tro-29603565",TRUE,"1.1","Accepted","Solanaceae","Solanum","","giganteum","","Jacq.","tro-29603565",FALSE,FALSE
+"656","Syzygium","cordatum",NA,"","kew-199448",TRUE,"1.1","Accepted","Myrtaceae","Syzygium","","cordatum","","Hochst. ex Krauss","kew-199448",FALSE,FALSE
+"657","Bridelia","micrantha",NA,"","kew-24564",TRUE,"1.1","Accepted","Phyllanthaceae","Bridelia","","micrantha","","(Hochst.) Baill.","kew-24564",FALSE,FALSE
+"658","Celtis","africana",NA,"","kew-2708140",TRUE,"1.1","Accepted","Cannabaceae","Celtis","","africana","","Burm.f.","kew-2708140",FALSE,FALSE
+"659","Clerodendrum","glabrum",NA,"","kew-42630",TRUE,"1.1","Synonym","Lamiaceae","Volkameria","","glabra","","(E.Mey.) Mabb. & Y.W.Yuan","kew-461983",FALSE,FALSE
+"660","Ficus","lutea",NA,"","kew-2811176",TRUE,"1.1","Accepted","Moraceae","Ficus","","lutea","","Vahl","kew-2811176",FALSE,FALSE
+"661","Ficus","natalensis",NA,"","kew-2811434",TRUE,"1.1","Accepted","Moraceae","Ficus","","natalensis","","Hochst.","kew-2811434",FALSE,FALSE
+"662","Ficus","petersii",NA,"","kew-2811712",TRUE,"1.1","Synonym","Moraceae","Ficus","","thonningii","","Blume","kew-2812561",FALSE,FALSE
+"663","Ficus","sur",NA,"","kew-2812498",TRUE,"1.1","Accepted","Moraceae","Ficus","","sur","","Forssk.","kew-2812498",FALSE,FALSE
+"664","Grewia","occidentalis",NA,"","kew-2833265",TRUE,"1.1","Accepted","Malvaceae","Grewia","","occidentalis","","L.","kew-2833265",FALSE,FALSE
+"665","Mimusops","caffra",NA,"","kew-128411",TRUE,"1.1","Accepted","Sapotaceae","Mimusops","","caffra","","E.Mey. ex A.DC.","kew-128411",FALSE,FALSE
+"666","Rhamnus","prinoides",NA,"","kew-2522744",TRUE,"1.1","Accepted","Rhamnaceae","Rhamnus","","prinoides","","L'Hér.","kew-2522744",FALSE,FALSE
+"667","Genipa","americana",NA,"","kew-89085",TRUE,"1.1","Accepted","Rubiaceae","Genipa","","americana","","L.","kew-89085",FALSE,FALSE
+"668","Sciadodendron","excelsum",NA,"","kew-188493",TRUE,"1.1","Synonym","Araliaceae","Aralia","","excelsa","","(Griseb.) J.Wen","kew-14057",FALSE,FALSE
+"669","Trichilia","martiana",NA,"","kew-2514986",TRUE,"1.1","Accepted","Meliaceae","Trichilia","","martiana","","C.DC.","kew-2514986",FALSE,FALSE
+"670","Acacia","collinsii",NA,"","ild-28174",TRUE,"1.1","Accepted","Leguminosae","Acacia","","collinsii","","Saff.","ild-28174",FALSE,FALSE
+"671","Casearia","arguta",NA,"","kew-4701987",TRUE,"1.1","Accepted","Salicaceae","Casearia","","arguta","","Kunth","kew-4701987",FALSE,FALSE
+"672","Aframomum","angustifolium",NA,"","kew-218350",TRUE,"1.1","Accepted","Zingiberaceae","Aframomum","","angustifolium","","(Sonn.) K.Schum.","kew-218350",FALSE,FALSE
+"673","Bridelia","speciosa",NA,"","kew-24647",TRUE,"1.1","Accepted","Phyllanthaceae","Bridelia","","speciosa","","Müll.Arg.","kew-24647",FALSE,FALSE
+"674","Ficus.","sp.",NA,"","",FALSE,"1.1","","","Ficus.","","sp.","","","",FALSE,FALSE
+"675","Harungana","madagascariensis",NA,"","kew-2840115",TRUE,"1.1","Accepted","Hypericaceae","Harungana","","madagascariensis","","Lam. ex Poir.","kew-2840115",FALSE,FALSE
+"676","Landophia","sp.",NA,"","",FALSE,"1.1","","","Landophia","","sp.","","","",FALSE,FALSE
+"677","Leea","guineensis",NA,"","tro-34000178",TRUE,"1.1","Accepted","Vitaceae","Leea","","guineensis","","G. Don","tro-34000178",FALSE,FALSE
+"678","Rytigynia","umbellulata",NA,"","kew-180996",TRUE,"1.1","Accepted","Rubiaceae","Rytigynia","","umbellulata","","(Hiern) Robyns","kew-180996",FALSE,FALSE
+"679","Antidesma","venosum",NA,"","kew-12367",TRUE,"1.1","Accepted","Phyllanthaceae","Antidesma","","venosum","","E.Mey. ex Tul.","kew-12367",FALSE,FALSE
+"680","Bridelia","micrantha",NA,"","kew-24564",TRUE,"1.1","Accepted","Phyllanthaceae","Bridelia","","micrantha","","(Hochst.) Baill.","kew-24564",FALSE,FALSE
+"681","Celtis","africana",NA,"","kew-2708140",TRUE,"1.1","Accepted","Cannabaceae","Celtis","","africana","","Burm.f.","kew-2708140",FALSE,FALSE
+"682","Clerodendrum","glabrum",NA,"","kew-42630",TRUE,"1.1","Synonym","Lamiaceae","Volkameria","","glabra","","(E.Mey.) Mabb. & Y.W.Yuan","kew-461983",FALSE,FALSE
+"683","Croton","sylvaticus",NA,"","kew-51313",TRUE,"1.1","Accepted","Euphorbiaceae","Croton","","sylvaticus","","Hochst.","kew-51313",FALSE,FALSE
+"684","Harpephyllum","caffrum",NA,"","tro-1300360",TRUE,"1.1","Accepted","Anacardiaceae","Harpephyllum","","caffrum","","Bernh.","tro-1300360",FALSE,FALSE
+"685","Phoenix","reclinata",NA,"","kew-152699",TRUE,"1.1","Accepted","Arecaceae","Phoenix","","reclinata","","Jacq.","kew-152699",FALSE,FALSE
+"686","Protorhus","longifolia",NA,"","tro-1300382",TRUE,"1.1","Accepted","Anacardiaceae","Protorhus","","longifolia","","(Bernh.) Engl.","tro-1300382",FALSE,FALSE
+"687","Rapanea","melanophloeos",NA,"","kew-2425098",TRUE,"1.1","Accepted","Primulaceae","Rapanea","","melanophloeos","","(L.) Mez","kew-2425098",FALSE,FALSE
+"688","Schinus","terebinthifolius",NA,"","",FALSE,"1.1","","","Schinus","","terebinthifolius","","","",FALSE,FALSE
+"689","Serasia","rehmanniana",NA,"","",FALSE,"1.1","","","Serasia","","rehmanniana","","","",FALSE,FALSE
+"690","Searsia","chirindensis",NA,"","kew-2608594",TRUE,"1.1","Unresolved","Anacardiaceae","Searsia","","chirindensis","","(Baker f.) Moffett","kew-2608594",FALSE,FALSE
+"691","Shirakiopsis","elliptica",NA,"","kew-190977",TRUE,"1.1","Accepted","Euphorbiaceae","Shirakiopsis","","elliptica","","(Hochst.) Esser","kew-190977",FALSE,FALSE
+"692","Syzgium","cordatum",NA,"","",FALSE,"1.1","","","Syzgium","","cordatum","","","",FALSE,FALSE
+"693","Syzygium","paniculata",NA,"","kew-200058",TRUE,"1.1","Accepted","Myrtaceae","Syzygium","","paniculatum","","Gaertn.","kew-200058",TRUE,FALSE
+"694","Trema","orientalis",NA,"","kew-2518675",TRUE,"1.1","Accepted","Cannabaceae","Trema","","orientalis","","(L.) Blume","kew-2518675",FALSE,FALSE
+"695","Morus","nigra",NA,"","kew-2501426",TRUE,"1.1","Accepted","Moraceae","Morus","","nigra","","L.","kew-2501426",FALSE,FALSE
+"696","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"697","Piper","amalago",NA,"","kew-2559492",TRUE,"1.1","Accepted","Piperaceae","Piper","","amalago","","L.","kew-2559492",FALSE,FALSE
+"698","Passiflora","edulis",NA,"sims","kew-2559735",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","edulis","","Sims","kew-2559735",FALSE,FALSE
+"699","Cecropia","pachystachya",NA,"trecul","kew-2707092",TRUE,"1.1","Accepted","Urticaceae","Cecropia","","pachystachya","","Trécul","kew-2707092",FALSE,FALSE
+"700","Solanum","mauritianum",NA,"","tro-29600120",TRUE,"1.1","Accepted","Solanaceae","Solanum","","mauritianum","","Scop.","tro-29600120",FALSE,FALSE
+"701","Cinnamomum","camphora",NA,"","kew-2721183",TRUE,"1.1","Accepted","Lauraceae","Cinnamomum","","camphora","","(L.) J.Presl","kew-2721183",FALSE,FALSE
+"702","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"703","Morus","alba",NA,"","kew-2501381",TRUE,"1.1","Accepted","Moraceae","Morus","","alba","","L.","kew-2501381",FALSE,FALSE
+"704","Lycium","intricatum",NA,"","kew-2496762",TRUE,"1.1","Accepted","Solanaceae","Lycium","","intricatum","","Boiss.","kew-2496762",FALSE,FALSE
+"705","Solanum","granuloso",NA,"leprosum","",FALSE,"1.1","","","Solanum","","granuloso","leprosum","","",FALSE,FALSE
+"706","Withania","frutescens",NA,"","kew-2465643",TRUE,"1.1","Accepted","Solanaceae","Withania","","frutescens","","(L.) Pauquy","kew-2465643",FALSE,FALSE
+"707","Daphne","rodriguezii",NA,"","kew-2757219",TRUE,"1.1","Accepted","Thymelaeaceae","Daphne","","rodriguezii","","Texidor","kew-2757219",FALSE,FALSE
+"708","rubus","ulmifolius",NA,"","rjp-12",TRUE,"1.1","Accepted","Rosaceae","Rubus","","ulmifolius","","Schott","rjp-12",FALSE,FALSE
+"709","ficus","sp.",NA,"","",FALSE,"1.1","","","ficus","","sp.","","","",FALSE,FALSE
+"710","olea","europaea",NA,"","kew-355112",TRUE,"1.1","Accepted","Oleaceae","Olea","","europaea","","L.","kew-355112",FALSE,FALSE
+"711","pyrus","sp.",NA,"","",FALSE,"1.1","","","pyrus","","sp.","","","",FALSE,FALSE
+"712","Arbutus","unedo",NA,"","kew-2646748",TRUE,"1.1","Accepted","Ericaceae","Arbutus","","unedo","","L.","kew-2646748",FALSE,FALSE
+"713","vitis","sp.",NA,"","",FALSE,"1.1","","","vitis","","sp.","","","",FALSE,FALSE
+"714","Withania","frutescens",NA,"","kew-2465643",TRUE,"1.1","Accepted","Solanaceae","Withania","","frutescens","","(L.) Pauquy","kew-2465643",FALSE,FALSE
+"715","Prunus","ilicifolia",NA,"","rjp-5902",TRUE,"1.1","Accepted","Rosaceae","Prunus","","ilicifolia","","(Nutt. ex Hook. & Arn.) D.Dietr.","rjp-5902",FALSE,FALSE
+"716","Chamaerops","humilis",NA,"","kew-37792",TRUE,"1.1","Accepted","Arecaceae","Chamaerops","","humilis","","L.","kew-37792",FALSE,FALSE
+"717","Ampelocera","hottlei",NA,"","kew-2634290",TRUE,"1.1","Accepted","Ulmaceae","Ampelocera","","hottlei","","(Standl.) Standl.","kew-2634290",FALSE,FALSE
+"718","Diospyros","egrettarum",NA,"","kew-2769651",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","egrettarum","","I.Richardson","kew-2769651",FALSE,FALSE
+"719","Myrsine","umbellata",NA,"","tro-22001263",TRUE,"1.1","Accepted","Primulaceae","Myrsine","","umbellata","","Mart.","tro-22001263",FALSE,FALSE
+"720","Myrsine","lancifolia",NA,"","tro-50243182",TRUE,"1.1","Accepted","Primulaceae","Myrsine","","lancifolia","","Mart.","tro-50243182",FALSE,FALSE
+"721","Crataegus","monogyna",NA,"","rjp-49",TRUE,"1.1","Accepted","Rosaceae","Crataegus","","monogyna","","Jacq.","rjp-49",FALSE,FALSE
+"722","Ephedra","fragilis",NA,"","kew-332930",TRUE,"1.1","Accepted","Ephedraceae","Ephedra","","fragilis","","Desf.","kew-332930",FALSE,FALSE
+"723","Juniperus","phoenicea",NA,"","kew-2332707",TRUE,"1.1","Accepted","Cupressaceae","Juniperus","","phoenicea","","L.","kew-2332707",FALSE,FALSE
+"724","Osyris","alba",NA,"","kew-2396411",TRUE,"1.1","Accepted","Santalaceae","Osyris","","alba","","L.","kew-2396411",FALSE,FALSE
+"725","Pistacia","lentiscus",NA,"","kew-2407564",TRUE,"1.1","Accepted","Anacardiaceae","Pistacia","","lentiscus","","L.","kew-2407564",FALSE,FALSE
+"726","Rhamnus","alaternus",NA,"","kew-2525844",TRUE,"1.1","Accepted","Rhamnaceae","Rhamnus","","alaternus","","L.","kew-2525844",FALSE,FALSE
+"727","Rhamnus","ludovici-salvatoris",NA,"","kew-2523130",TRUE,"1.1","Accepted","Rhamnaceae","Rhamnus","","ludovici-salvatoris","","Chodat","kew-2523130",FALSE,FALSE
+"728","Rubus","ulmifolius",NA,"","rjp-12",TRUE,"1.1","Accepted","Rosaceae","Rubus","","ulmifolius","","Schott","rjp-12",FALSE,FALSE
+"729","Rubia","peregrina",NA,"","kew-180363",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","peregrina","","L.","kew-180363",FALSE,FALSE
+"730","Solanum","luteum",NA,"","tro-29602606",TRUE,"1.1","Accepted","Solanaceae","Solanum","","luteum","","Mill.","tro-29602606",FALSE,FALSE
+"731","Solanum","nigrum",NA,"","tro-29600125",TRUE,"1.1","Synonym","Solanaceae","Solanum","","americanum","","Mill.","tro-29600095",FALSE,FALSE
+"732","Smilax","aspera",NA,"","kew-288512",TRUE,"1.1","Accepted","Smilacaceae","Smilax","","aspera","","L.","kew-288512",FALSE,FALSE
+"733","Phillyrea","angustifoli",NA,"","kew-355819",TRUE,"1.1","Accepted","Oleaceae","Phillyrea","","angustifolia","","L.","kew-355819",TRUE,FALSE
+"734","Myrtus","communis",NA,"","kew-132410",TRUE,"1.1","Accepted","Myrtaceae","Myrtus","","communis","","L.","kew-132410",FALSE,FALSE
+"735","Opuntia","dilenii",NA,"","",FALSE,"1.1","","","Opuntia","","dilenii","","","",FALSE,FALSE
+"736","Opuntia","maxima",NA,"","kew-2391633",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","maxima","","Mill.","kew-2391633",FALSE,FALSE
+"737","Opuntia","stricta",NA,"","kew-2391898",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","stricta","","(Haw.) Haw.","kew-2391898",FALSE,FALSE
+"738","Lycopersicon","esculentum",NA,"","tro-29602513",TRUE,"1.1","Accepted","Solanaceae","Lycopersicon","","esculentum","","Mill.","tro-29602513",FALSE,FALSE
+"739","Azara","dentata",NA,"","kew-4667321",TRUE,"1.1","Accepted","Salicaceae","Azara","","dentata","","Ruiz & Pav.","kew-4667321",FALSE,FALSE
+"740","Schinus","polygamus",NA,"","",FALSE,"1.1","","","Schinus","","polygamus","","","",FALSE,FALSE
+"741","Schinus","molle",NA,"","kew-2480199",TRUE,"1.1","Accepted","Anacardiaceae","Schinus","","molle","","L.","kew-2480199",FALSE,FALSE
+"742","Cestrum","parqui",NA,"","kew-2713698",TRUE,"1.1","Accepted","Solanaceae","Cestrum","","parqui","","(Lam.) L'Hér.","kew-2713698",FALSE,FALSE
+"743","Maytenus","boaria",NA,"","kew-2370101",TRUE,"1.1","Accepted","Celastraceae","Maytenus","","boaria","","Molina","kew-2370101",FALSE,FALSE
+"744","Crataegus","monogyna",NA,"","rjp-49",TRUE,"1.1","Accepted","Rosaceae","Crataegus","","monogyna","","Jacq.","rjp-49",FALSE,FALSE
+"745","Myrtus","communis",NA,"","kew-132410",TRUE,"1.1","Accepted","Myrtaceae","Myrtus","","communis","","L.","kew-132410",FALSE,FALSE
+"746","Pistacia","lentiscus",NA,"","kew-2407564",TRUE,"1.1","Accepted","Anacardiaceae","Pistacia","","lentiscus","","L.","kew-2407564",FALSE,FALSE
+"747","Melia","azedarach",NA,"","kew-2505106",TRUE,"1.1","Accepted","Meliaceae","Melia","","azedarach","","L.","kew-2505106",FALSE,FALSE
+"748","Psidium","galapageium",NA,"","",FALSE,"1.1","","","Psidium","","galapageium","","","",FALSE,FALSE
+"749","Opuntia","echios",NA,"","tro-5107347",TRUE,"1.1","Accepted","Cactaceae","Opuntia","","echios","","Howell","tro-5107347",FALSE,FALSE
+"750","Hippomane","mancinella",NA,"","kew-99370",TRUE,"1.1","Accepted","Euphorbiaceae","Hippomane","","mancinella","","L.","kew-99370",FALSE,FALSE
+"751","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"752","Passiflora","edulis",NA,"","kew-2559735",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","edulis","","Sims","kew-2559735",FALSE,FALSE
+"753","Solanum","nigrum",NA,"","tro-29600125",TRUE,"1.1","Synonym","Solanaceae","Solanum","","americanum","","Mill.","tro-29600095",FALSE,FALSE
+"754","Ficus","sur",NA,"","kew-2812498",TRUE,"1.1","Accepted","Moraceae","Ficus","","sur","","Forssk.","kew-2812498",FALSE,FALSE
+"755","Cornus","racemosa",NA,"","kew-47487",TRUE,"1.1","Accepted","Cornaceae","Cornus","","racemosa","","Lam.","kew-47487",FALSE,FALSE
+"756","Cornus","sericea",NA,"","kew-47505",TRUE,"1.1","Accepted","Cornaceae","Cornus","","sericea","","L.","kew-47505",FALSE,FALSE
+"757","Lonicera","tatarica",NA,"","kew-2340703",TRUE,"1.1","Accepted","Caprifoliaceae","Lonicera","","tatarica","","L.","kew-2340703",FALSE,FALSE
+"758","Morus","alba",NA,"","kew-2501381",TRUE,"1.1","Accepted","Moraceae","Morus","","alba","","L.","kew-2501381",FALSE,FALSE
+"759","Prunus","serotina",NA,"","rjp-256",TRUE,"1.1","Accepted","Rosaceae","Prunus","","serotina","","Ehrh.","rjp-256",FALSE,FALSE
+"760","Prunus","virginiana",NA,"","rjp-72",TRUE,"1.1","Accepted","Rosaceae","Prunus","","virginiana","","L.","rjp-72",FALSE,FALSE
+"761","Rhus","glabra",NA,"","tro-1300002",TRUE,"1.1","Accepted","Anacardiaceae","Rhus","","glabra","","L.","tro-1300002",FALSE,FALSE
+"762","Ribes","missouriense",NA,"","tro-29100524",TRUE,"1.1","Accepted","Grossulariaceae","Ribes","","missouriense","","Nutt.","tro-29100524",FALSE,FALSE
+"763","Rosa","sp.",NA,"","",FALSE,"1.1","","","Rosa","","sp.","","","",FALSE,FALSE
+"764","Rubus","sp.",NA,"","",FALSE,"1.1","","","Rubus","","sp.","","","",FALSE,FALSE
+"765","Rubus","occidentalis",NA,"","rjp-102",TRUE,"1.1","Accepted","Rosaceae","Rubus","","occidentalis","","L.","rjp-102",FALSE,FALSE
+"766","Sambucus","canadensis",NA,"","kew-2486578",TRUE,"1.1","Accepted","Adoxaceae","Sambucus","","canadensis","","L.","kew-2486578",FALSE,FALSE
+"767","Toxicodendron","radicans",NA,"","tro-1300004",TRUE,"1.1","Accepted","Anacardiaceae","Toxicodendron","","radicans","","(L.) Kuntze","tro-1300004",FALSE,FALSE
+"768","Toxicodendron","vernix",NA,"","tro-1300275",TRUE,"1.1","Accepted","Anacardiaceae","Toxicodendron","","vernix","","(L.) Kuntze","tro-1300275",FALSE,FALSE
+"769","Vitis","riparia",NA,"","kew-2457043",TRUE,"1.1","Synonym","Vitaceae","Vitis","","vulpina","","L.","kew-2457167",FALSE,FALSE
+"770","Aralia","nudicaulis",NA,"","kew-14176",TRUE,"1.1","Accepted","Araliaceae","Aralia","","nudicaulis","","L.","kew-14176",FALSE,FALSE
+"771","Rubus","idaeus",NA,"","rjp-310",TRUE,"1.1","Accepted","Rosaceae","Rubus","","idaeus","","L.","rjp-310",FALSE,FALSE
+"772","Vaccinium","sp.",NA,"","",FALSE,"1.1","","","Vaccinium","","sp.","","","",FALSE,FALSE
+"773","Juniperus","virginiana",NA,"","kew-2331595",TRUE,"1.1","Accepted","Cupressaceae","Juniperus","","virginiana","","L.","kew-2331595",FALSE,FALSE
+"774","Oenocarpus","bataua",NA,"","kew-138049",TRUE,"1.1","Accepted","Arecaceae","Oenocarpus","","bataua","","Mart.","kew-138049",FALSE,FALSE
+"775","Vir","oladixonii",NA,"","",FALSE,"1.1","","","Vir","","oladixonii","","","",FALSE,FALSE
+"776","Ficus","crassiuscula",NA,"","kew-2810081",TRUE,"1.1","Accepted","Moraceae","Ficus","","crassiuscula","","Warb. ex Standl.","kew-2810081",FALSE,FALSE
+"777","Shepherdia","canadensis",NA,"","kew-2592736",TRUE,"1.1","Accepted","Elaeagnaceae","Shepherdia","","canadensis","","(L.) Nutt.","kew-2592736",FALSE,FALSE
+"778","Amelanchier","alnifolia",NA,"","rjp-4731",TRUE,"1.1","Accepted","Rosaceae","Amelanchier","","alnifolia","","(Nutt.) Nutt. ex M.Roem.","rjp-4731",FALSE,FALSE
+"779","Vaccinium","sp.",NA,"","",FALSE,"1.1","","","Vaccinium","","sp.","","","",FALSE,FALSE
+"780","Psittacanthus","schiedeanus",NA,"","kew-2536410",TRUE,"1.1","Accepted","Loranthaceae","Psittacanthus","","schiedeanus","","(Schltdl. & Cham.) G.Don","kew-2536410",FALSE,FALSE
+"781","Cryptocarya","sp.",NA,"","",FALSE,"1.1","","","Cryptocarya","","sp.","","","",FALSE,FALSE
+"782","Eugenia","cloiselii",NA,"","kew-74796",TRUE,"1.1","Accepted","Myrtaceae","Eugenia","","cloiselii","","H.Perrier","kew-74796",FALSE,FALSE
+"783","Gaertnera","sp.",NA,"","",FALSE,"1.1","","","Gaertnera","","sp.","","","",FALSE,FALSE
+"784","Garcinia","verrucosa",NA,"","kew-2817236",TRUE,"1.1","Accepted","Clusiaceae","Garcinia","","verrucosa","","Jum. & H.Perrier","kew-2817236",FALSE,FALSE
+"785","Machpersonia","madagascaraiensis",NA,"","",FALSE,"1.1","","","Machpersonia","","madagascaraiensis","","","",FALSE,FALSE
+"786","Noronhia","grandifolia",NA,"","kew-351626",TRUE,"1.1","Accepted","Oleaceae","Noronhia","","grandifolia","","H.Perrier","kew-351626",FALSE,FALSE
+"787","Potameia","sp.",NA,"","",FALSE,"1.1","","","Potameia","","sp.","","","",FALSE,FALSE
+"788","Sideroxylon","sp.",NA,"","",FALSE,"1.1","","","Sideroxylon","","sp.","","","",FALSE,FALSE
+"789","Uapaca","silvestris",NA,"","kew-209664",TRUE,"1.1","Synonym","Phyllanthaceae","Uapaca","","littoralis","","Denis","kew-209616",FALSE,FALSE
+"790","Celtis","australis",NA,"","kew-2708167",TRUE,"1.1","Accepted","Cannabaceae","Celtis","","australis","","L.","kew-2708167",FALSE,FALSE
+"791","Strychnos","madagascariensis",NA,"","kew-2598341",TRUE,"1.1","Accepted","Loganiaceae","Strychnos","","madagascariensis","","Poir.","kew-2598341",FALSE,FALSE
+"792","Vitex","beraviensis",NA,"","kew-213341",TRUE,"1.1","Accepted","Lamiaceae","Vitex","","beraviensis","","Vatke","kew-213341",FALSE,FALSE
+"793","Cinnamosma","fragrans",NA,"","kew-2721726",TRUE,"1.1","Accepted","Canellaceae","Cinnamosma","","fragrans","","Baill.","kew-2721726",FALSE,FALSE
+"794","Menispermacea","casmenthera",NA,"","",FALSE,"1.1","","","Menispermacea","","casmenthera","","","",FALSE,FALSE
+"795","Poupartia","silvatica",NA,"","kew-2407168",TRUE,"1.1","Unresolved","Anacardiaceae","Poupartia","","silvatica","","H.Perrier","kew-2407168",FALSE,FALSE
+"796","Protorhus","deixa",NA,"","",FALSE,"1.1","","","Protorhus","","deixa","","","",FALSE,FALSE
+"797","Vangueria","madagascariensis",NA,"","kew-211711",TRUE,"1.1","Accepted","Rubiaceae","Vangueria","","madagascariensis","","J.F.Gmel.","kew-211711",FALSE,FALSE
+"798","Berchemia","discolor",NA,"","kew-2674713",TRUE,"1.1","Accepted","Rhamnaceae","Berchemia","","discolor","","(Klotzsch) Hemsl.","kew-2674713",FALSE,FALSE
+"799","Evonymopsis","sp.",NA,"","",FALSE,"1.1","","","Evonymopsis","","sp.","","","",FALSE,FALSE
+"800","Mapouria","boinensis",NA,"","",FALSE,"1.1","","","Mapouria","","boinensis","","","",FALSE,FALSE
+"801","Olax","madagascariensis",NA,"","tro-50275696",TRUE,"1.1","Accepted","Olacaceae","Olax","","madagascariensis","","(DC.) Valeton","tro-50275696",FALSE,FALSE
+"802","Vitex","pervillei",NA,"","kew-213701",TRUE,"1.1","Accepted","Lamiaceae","Vitex","","pervillei","","Baker","kew-213701",FALSE,FALSE
+"803","Arisaema","triphyllum",NA,"","kew-15737",TRUE,"1.1","Accepted","Araceae","Arisaema","","triphyllum","","(L.) Schott","kew-15737",FALSE,FALSE
+"804","Podophyllum","peltatum",NA,"","kew-2412818",TRUE,"1.1","Accepted","Berberidaceae","Podophyllum","","peltatum","","L.","kew-2412818",FALSE,FALSE
+"805","Sambucus","candensis",NA,"","kew-2486578",TRUE,"1.1","Accepted","Adoxaceae","Sambucus","","canadensis","","L.","kew-2486578",TRUE,FALSE
+"806","Viburnum","acerifolium",NA,"","tro-6000333",TRUE,"1.1","Accepted","Adoxaceae","Viburnum","","acerifolium","","L.","tro-6000333",FALSE,FALSE
+"807","Faylussacia","baccata",NA,"","",FALSE,"1.1","","","Faylussacia","","baccata","","","",FALSE,FALSE
+"808","Vaccinium","vacillans",NA,"","tro-12300685",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","vacillans","","Kalm ex Torr.","tro-12300685",FALSE,FALSE
+"809","Morus","alba",NA,"","kew-2501381",TRUE,"1.1","Accepted","Moraceae","Morus","","alba","","L.","kew-2501381",FALSE,FALSE
+"810","Passiflora","incarnata",NA,"","tro-24200150",TRUE,"1.1","Synonym","Passifloraceae","Passiflora","","edulis","","Sims","kew-2559735",FALSE,FALSE
+"811","Phytolaccca","americana",NA,"","",FALSE,"1.1","","","Phytolaccca","","americana","","","",FALSE,FALSE
+"812","Duchesnea","indica",NA,"","rjp-804",TRUE,"1.1","Accepted","Rosaceae","Duchesnea","","indica","","(Jacks.) Focke","rjp-804",FALSE,FALSE
+"813","Fragaria","virginiana",NA,"","rjp-38099",TRUE,"1.1","Accepted","Rosaceae","Fragaria","","virginiana","","Mill.","rjp-38099",FALSE,FALSE
+"814","Prunus","serotina",NA,"","rjp-256",TRUE,"1.1","Accepted","Rosaceae","Prunus","","serotina","","Ehrh.","rjp-256",FALSE,FALSE
+"815","Rosa","multiflora",NA,"","rjp-31471",TRUE,"1.1","Accepted","Rosaceae","Rosa","","multiflora","","Thunb.","rjp-31471",FALSE,FALSE
+"816","Rubus","phoenicolasius",NA,"","rjp-756",TRUE,"1.1","Accepted","Rosaceae","Rubus","","phoenicolasius","","Maxim.","rjp-756",FALSE,FALSE
+"817","Rubus","spp.",NA,"","",FALSE,"1.1","","","Rubus","","spp.","","","",FALSE,FALSE
+"818","Vitis","aestivalis",NA,"","kew-2456568",TRUE,"1.1","Accepted","Vitaceae","Vitis","","aestivalis","","Michx.","kew-2456568",FALSE,FALSE
+"819","Vitis","rotundifolia",NA,"","kew-2457047",TRUE,"1.1","Accepted","Vitaceae","Vitis","","rotundifolia","","Michx.","kew-2457047",FALSE,FALSE
+"820","Vitis","vulpina",NA,"","kew-2457167",TRUE,"1.1","Accepted","Vitaceae","Vitis","","vulpina","","L.","kew-2457167",FALSE,FALSE
+"821","Rubus","spectabilis",NA,"","rjp-1093",TRUE,"1.1","Accepted","Rosaceae","Rubus","","spectabilis","","Pursh","rjp-1093",FALSE,FALSE
+"822","Sambucus","racemosa",NA,"","kew-2486552",TRUE,"1.1","Accepted","Adoxaceae","Sambucus","","racemosa","","L.","kew-2486552",FALSE,FALSE
+"823","Ribes","bracteosum",NA,"","tro-29100485",TRUE,"1.1","Accepted","Grossulariaceae","Ribes","","bracteosum","","Douglas","tro-29100485",FALSE,FALSE
+"824","Streptopus","amplexifolius",NA,"","kew-287538",TRUE,"1.1","Accepted","Liliaceae","Streptopus","","amplexifolius","","(L.) DC.","kew-287538",FALSE,FALSE
+"825","Oplopanax","horridus",NA,"","kew-141937",TRUE,"1.1","Accepted","Araliaceae","Oplopanax","","horridus","","(Sm.) Miq.","kew-141937",FALSE,FALSE
+"826","Vaccinium","sp.",NA,"","",FALSE,"1.1","","","Vaccinium","","sp.","","","",FALSE,FALSE
+"827","Rubus","spectabilis",NA,"","rjp-1093",TRUE,"1.1","Accepted","Rosaceae","Rubus","","spectabilis","","Pursh","rjp-1093",FALSE,FALSE
+"828","Rubus","discolor",NA,"","rjp-10727",TRUE,"1.1","Synonym","Rosaceae","Rubus","","praecox","","Bertol.","rjp-10083",FALSE,FALSE
+"829","Vaccinium","ovatum",NA,"","tro-12300676",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","ovatum","","Pursh","tro-12300676",FALSE,FALSE
+"830","Vaccinium","parvifolium",NA,"","tro-12300062",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","parvifolium","","Sm.","tro-12300062",FALSE,FALSE
+"831","Gaultheria","shallon",NA,"","kew-2818048",TRUE,"1.1","Accepted","Ericaceae","Gaultheria","","shallon","","Pursh","kew-2818048",FALSE,FALSE
+"832","Disporum","smithii",NA,"","kew-304517",TRUE,"1.1","Synonym","Liliaceae","Prosartes","","smithii","","(Hook.) Utech, Shinwari & Kawano","kew-285184",FALSE,FALSE
+"833","Aloe","tormentorii",NA,"","kew-298064",TRUE,"1.1","Accepted","Xanthorrhoeaceae","Aloe","","tormentorii","","(Marais) L.E.Newton & G.D.Rowley","kew-298064",FALSE,FALSE
+"834","Myoporum","mauritianum",NA,"","kew-2501656",TRUE,"1.1","Unresolved","Scrophulariaceae","Myoporum","","mauritianum","","A.DC.","kew-2501656",FALSE,FALSE
+"835","Dracaena","concinna",NA,"","kew-304612",TRUE,"1.1","Accepted","Asparagaceae","Dracaena","","concinna","","Kunth","kew-304612",FALSE,FALSE
+"836","Hilsenbergia","petiolaris",NA,"","tro-50251297",TRUE,"1.1","Accepted","Boraginaceae","Hilsenbergia","","petiolaris","","(Lam.) J.S. Mill.","tro-50251297",FALSE,FALSE
+"837","Premna","serratifolia",NA,"","kew-165146",TRUE,"1.1","Accepted","Lamiaceae","Premna","","serratifolia","","L.","kew-165146",FALSE,FALSE
+"838","Scaevola","taccada",NA,"","tro-14600012",TRUE,"1.1","Accepted","Goodeniaceae","Scaevola","","taccada","","(Gaertn.) Roxb.","tro-14600012",FALSE,FALSE
+"839","Passiflora","suberosa",NA,"","kew-2560211",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","suberosa","","L.","kew-2560211",FALSE,FALSE
+"840","Solanum","nigrum",NA,"","tro-29600125",TRUE,"1.1","Synonym","Solanaceae","Solanum","","americanum","","Mill.","tro-29600095",FALSE,FALSE
+"841","Alpinia","malaccensis",NA,"","kew-218892",TRUE,"1.1","Accepted","Zingiberaceae","Alpinia","","malaccensis","","(Burm.f.) Roscoe","kew-218892",FALSE,FALSE
+"842","Anthocephalus","chinensis",NA,"","kew-10404",TRUE,"1.1","Synonym","Rubiaceae","Breonia","","chinensis","","(Lam.) Capuron","kew-24358",FALSE,FALSE
+"843","Baccaurea","ramiflora",NA,"","kew-18676",TRUE,"1.1","Accepted","Phyllanthaceae","Baccaurea","","ramiflora","","Lour.","kew-18676",FALSE,FALSE
+"844","Diplectia","barbata",NA,"","",FALSE,"1.1","","","Diplectia","","barbata","","","",FALSE,FALSE
+"845","Eurya","nitida",NA,"","kew-2804973",TRUE,"1.1","Accepted","Pentaphylacaceae","Eurya","","nitida","","Korth.","kew-2804973",FALSE,FALSE
+"846","Ficus","ischnopoda",NA,"","kew-2810891",TRUE,"1.1","Accepted","Moraceae","Ficus","","ischnopoda","","Miq.","kew-2810891",FALSE,FALSE
+"847","Ficus","microcarpa",NA,"","kew-2811321",TRUE,"1.1","Accepted","Moraceae","Ficus","","microcarpa","","L.f.","kew-2811321",FALSE,FALSE
+"848","Ficus","sagittata",NA,"","kew-2812158",TRUE,"1.1","Accepted","Moraceae","Ficus","","sagittata","","Vahl","kew-2812158",FALSE,FALSE
+"849","Ficus","virens",NA,"","kew-2812783",TRUE,"1.1","Accepted","Moraceae","Ficus","","virens","","Aiton","kew-2812783",FALSE,FALSE
+"850","Melastoma","malabathricum",NA,"","tro-20302081",TRUE,"1.1","Accepted","Melastomataceae","Melastoma","","malabathricum","","L.","tro-20302081",FALSE,FALSE
+"851","Nauclea","orientalis",NA,"","kew-133249",TRUE,"1.1","Accepted","Rubiaceae","Nauclea","","orientalis","","(L.) L.","kew-133249",FALSE,FALSE
+"852","Toddalia","asiatica",NA,"","kew-2514778",TRUE,"1.1","Accepted","Rutaceae","Toddalia","","asiatica","","(L.) Lam.","kew-2514778",FALSE,FALSE
+"853",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"854","Dialium","sp.",NA,"","",FALSE,"1.1","","","Dialium","","sp.","","","",FALSE,FALSE
+"855","Lindera","benzoin",NA,"","tro-17803774",TRUE,"1.1","Accepted","Lauraceae","Lindera","","benzoin","","(L.) Blume","tro-17803774",FALSE,FALSE
+"856","Prunus","virginiana",NA,"","rjp-72",TRUE,"1.1","Accepted","Rosaceae","Prunus","","virginiana","","L.","rjp-72",FALSE,FALSE
+"857","Viburnum","dentatum",NA,"","tro-6000338",TRUE,"1.1","Accepted","Adoxaceae","Viburnum","","dentatum","","L.","tro-6000338",FALSE,FALSE
+"858","Rubus","spectabilis",NA,"","rjp-1093",TRUE,"1.1","Accepted","Rosaceae","Rubus","","spectabilis","","Pursh","rjp-1093",FALSE,FALSE
+"859","Vaccinium","alaskaense",NA,"","tro-12302445",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","alaskaense","","Howell","tro-12302445",FALSE,FALSE
+"860","Vaccinium","ovalifolium",NA,"","tro-12300675",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","ovalifolium","","Sm.","tro-12300675",FALSE,FALSE
+"861","Rubus","spectabilis",NA,"","rjp-1093",TRUE,"1.1","Accepted","Rosaceae","Rubus","","spectabilis","","Pursh","rjp-1093",FALSE,FALSE
+"862","Casuarina","pauper",NA,"","kew-2705510",TRUE,"1.1","Accepted","Casuarinaceae","Casuarina","","pauper","","F.Muell. ex L.A.S.Johnson","kew-2705510",FALSE,FALSE
+"863","Enchylaena","tomentosa",NA,"","kew-2788736",TRUE,"1.1","Accepted","Amaranthaceae","Enchylaena","","tomentosa","","R.Br.","kew-2788736",FALSE,FALSE
+"864","Eremophila","glabra",NA,"","kew-2792250",TRUE,"1.1","Accepted","Scrophulariaceae","Eremophila","","glabra","","(R.Br.) Ostenf.","kew-2792250",FALSE,FALSE
+"865","Nitraria","billardierei",NA,"","kew-2382391",TRUE,"1.1","Unresolved","Nitrariaceae","Nitraria","","billardierei","","DC.","kew-2382391",FALSE,FALSE
+"866","Juniperus","thurifera",NA,"","kew-2329479",TRUE,"1.1","Accepted","Cupressaceae","Juniperus","","thurifera","","L.","kew-2329479",FALSE,FALSE
+"867","Elaeagnus","umbellata",NA,"","kew-2785255",TRUE,"1.1","Accepted","Elaeagnaceae","Elaeagnus","","umbellata","","Thunb.","kew-2785255",FALSE,FALSE
+"868","Celastrus","orbiculatus",NA,"","kew-2707630",TRUE,"1.1","Accepted","Celastraceae","Celastrus","","orbiculatus","","Thunb.","kew-2707630",FALSE,FALSE
+"869","Rosa","multiflora",NA,"","rjp-31471",TRUE,"1.1","Accepted","Rosaceae","Rosa","","multiflora","","Thunb.","rjp-31471",FALSE,FALSE
+"870","Cipocereus","minensis",NA,"","kew-2721765",TRUE,"1.1","Accepted","Cactaceae","Cipocereus","","minensis","","(Werderm.) F.Ritter","kew-2721765",FALSE,FALSE
+"871","Clidemia","urceolata",NA,"","tro-20300067",TRUE,"1.1","Accepted","Melastomataceae","Clidemia","","urceolata","","DC.","tro-20300067",FALSE,FALSE
+"872","Miconia","holosericea",NA,"","tro-20302684",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","holosericea","","(L.) DC.","tro-20302684",FALSE,FALSE
+"873","Myrcia","sp.",NA,"","",FALSE,"1.1","","","Myrcia","","sp.","","","",FALSE,FALSE
+"874","Psidium","sp.",NA,"","",FALSE,"1.1","","","Psidium","","sp.","","","",FALSE,FALSE
+"875","Cordiera","sessilis",NA,"","kew-47130",TRUE,"1.1","Accepted","Rubiaceae","Cordiera","","sessilis","","(Vell.) Kuntze","kew-47130",FALSE,FALSE
+"876","Psychotria","capitata",NA,"","kew-167524",TRUE,"1.1","Accepted","Rubiaceae","Psychotria","","capitata","","Ruiz & Pav.","kew-167524",FALSE,FALSE
+"877","Phoradendron","crassifolium",NA,"","kew-2545642",TRUE,"1.1","Accepted","Santalaceae","Phoradendron","","crassifolium","","(Pohl ex DC.) Eichler","kew-2545642",FALSE,FALSE
+"878","Psidium","cattleianum",NA,"","kew-166659",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","cattleianum","","Afzel. ex Sabine","kew-166659",FALSE,FALSE
+"879","Clidemia","hirta",NA,"","tro-20302133",TRUE,"1.1","Accepted","Melastomataceae","Clidemia","","hirta","","(L.) D. Don","tro-20302133",FALSE,FALSE
+"880","Schinus","terebinthifoius",NA,"","",FALSE,"1.1","","","Schinus","","terebinthifoius","","","",FALSE,FALSE
+"881","Hedychium","gardnerianum",NA,"","kew-248143",TRUE,"1.1","Accepted","Zingiberaceae","Hedychium","","gardnerianum","","Sheppard ex Ker Gawl.","kew-248143",FALSE,FALSE
+"882","Miconia","calvescens",NA,"","tro-20300144",TRUE,"1.1","Accepted","Melastomataceae","Miconia","","calvescens","","DC.","tro-20300144",FALSE,FALSE
+"883","Leucaena","leucocephala",NA,"","ild-105",TRUE,"1.1","Accepted","Leguminosae","Leucaena","","leucocephala","","(Lam.) de Wit","ild-105",FALSE,FALSE
+"884","Schefflera","actinophylla",NA,"","kew-186973",TRUE,"1.1","Accepted","Araliaceae","Schefflera","","actinophylla","","(Endl.) Harms","kew-186973",FALSE,FALSE
+"885","Ardisia","elliptica",NA,"","kew-2647897",TRUE,"1.1","Accepted","Primulaceae","Ardisia","","elliptica","","Thunb.","kew-2647897",FALSE,FALSE
+"886","Morella","faya",NA,"","tro-50149233",TRUE,"1.1","Accepted","Myricaceae","Morella","","faya","","(Aiton) Wilbur","tro-50149233",FALSE,FALSE
+"887","Lantana","camara",NA,"","kew-107934",TRUE,"1.1","Accepted","Verbenaceae","Lantana","","camara","","L.","kew-107934",FALSE,FALSE
+"888","Spathodea","campanulatat",NA,"","kew-318309",TRUE,"1.1","Accepted","Bignoniaceae","Spathodea","","campanulata","","P.Beauv.","kew-318309",TRUE,FALSE
+"889","Urochloa","maxima",NA,"","kew-449503",TRUE,"1.1","Synonym","Poaceae","Panicum","","maximum","","Jacq.","kew-429196",FALSE,FALSE
+"890","Prosopis","pallida",NA,"","ild-31052",TRUE,"1.1","Accepted","Leguminosae","Prosopis","","pallida","","(Willd.) Kunth","ild-31052",FALSE,FALSE
+"891","Rubus","rosifolius",NA,"","rjp-4236",TRUE,"1.1","Accepted","Rosaceae","Rubus","","rosifolius","","Sm.","rjp-4236",FALSE,FALSE
+"892","Citharexylum","caudatum",NA,"","kew-41150",TRUE,"1.1","Accepted","Verbenaceae","Citharexylum","","caudatum","","L.","kew-41150",FALSE,FALSE
+"893","Ficus","microcarpa",NA,"","kew-2811321",TRUE,"1.1","Accepted","Moraceae","Ficus","","microcarpa","","L.f.","kew-2811321",FALSE,FALSE
+"894","Passiflora","suberosa",NA,"","kew-2560211",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","suberosa","","L.","kew-2560211",FALSE,FALSE
+"895","Buddleia","asiatica",NA,"","",FALSE,"1.1","","","Buddleia","","asiatica","","","",FALSE,FALSE
+"896","Syzygium","cumini",NA,"","kew-199476",TRUE,"1.1","Accepted","Myrtaceae","Syzygium","","cumini","","(L.) Skeels","kew-199476",FALSE,FALSE
+"897","Aleurites","moluccana",NA,"","kew-5934",TRUE,"1.1","Accepted","Euphorbiaceae","Aleurites","","moluccanus","","(L.) Willd.","kew-5934",TRUE,FALSE
+"898","Coffea","arabica",NA,"","kew-45400",TRUE,"1.1","Accepted","Rubiaceae","Coffea","","arabica","","L.","kew-45400",FALSE,FALSE
+"899","Cinnamomum","burmanii",NA,"","kew-2721172",TRUE,"1.1","Accepted","Lauraceae","Cinnamomum","","burmanni","","(Nees & T.Nees) Blume","kew-2721172",TRUE,FALSE
+"900","BIschofia","javanica",NA,"","kew-22243",TRUE,"1.1","Accepted","Phyllanthaceae","Bischofia","","javanica","","Blume","kew-22243",FALSE,FALSE
+"901","Casuarina","equisetifolia",NA,"","kew-2705446",TRUE,"1.1","Accepted","Casuarinaceae","Casuarina","","equisetifolia","","L.","kew-2705446",FALSE,FALSE
+"902","Setaria","palmifolia",NA,"","kew-442588",TRUE,"1.1","Accepted","Poaceae","Setaria","","palmifolia","","(J.Koenig) Stapf","kew-442588",FALSE,FALSE
+"903","Diospyros","virginiana",NA,"","kew-2770719",TRUE,"1.1","Accepted","Ebenaceae","Diospyros","","virginiana","","L.","kew-2770719",FALSE,FALSE
+"904","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"905","Eugenia","dysenterica",NA,"","kew-75100",TRUE,"1.1","Accepted","Myrtaceae","Eugenia","","dysenterica","","DC.","kew-75100",FALSE,FALSE
+"906","Hancornia","speciosa",NA,"","kew-96116",TRUE,"1.1","Accepted","Apocynaceae","Hancornia","","speciosa","","Gomes","kew-96116",FALSE,FALSE
+"907","Annona","crassiflora",NA,"","kew-2640830",TRUE,"1.1","Accepted","Annonaceae","Annona","","crassiflora","","Mart.","kew-2640830",FALSE,FALSE
+"908","Caryocar","brasiliense",NA,"","kew-34625",TRUE,"1.1","Accepted","Caryocaraceae","Caryocar","","brasiliense","","A.St.-Hil.","kew-34625",FALSE,FALSE
+"909","Hymenaea","stignocarpa",NA,"","ild-19780",TRUE,"1.1","Accepted","Leguminosae","Hymenaea","","stigonocarpa","","Hayne","ild-19780",TRUE,FALSE
+"910","Passiflora","edulis",NA,"","kew-2559735",TRUE,"1.1","Accepted","Passifloraceae","Passiflora","","edulis","","Sims","kew-2559735",FALSE,FALSE
+"911","Solanum","lycocarpum",NA,"","tro-29600117",TRUE,"1.1","Accepted","Solanaceae","Solanum","","lycocarpum","","A. St.-Hil.","tro-29600117",FALSE,FALSE
+"912","Solanum","palinacanthum",NA,"","tro-29600132",TRUE,"1.1","Accepted","Solanaceae","Solanum","","palinacanthum","","Dunal","tro-29600132",FALSE,FALSE
+"913","Spondias","tuberosa",NA,"","kew-2480663",TRUE,"1.1","Accepted","Anacardiaceae","Spondias","","tuberosa","","Arruda","kew-2480663",FALSE,FALSE
+"914","Spondias","purpurea",NA,"","kew-2480722",TRUE,"1.1","Accepted","Anacardiaceae","Spondias","","purpurea","","L.","kew-2480722",FALSE,FALSE
+"915","Talisia","esculenta",NA,"","tro-28601634",TRUE,"1.1","Accepted","Sapindaceae","Talisia","","esculenta","","(A. St.-Hil.) Radlk.","tro-28601634",FALSE,FALSE
+"916","Sclerocarya","birrea",NA,"","kew-2479830",TRUE,"1.1","Accepted","Anacardiaceae","Sclerocarya","","birrea","","(A.Rich.) Hochst.","kew-2479830",FALSE,FALSE
+"917","Sclerocarya","caffra",NA,"","kew-2479833",TRUE,"1.1","Synonym","Anacardiaceae","Sclerocarya","","birrea","caffra","subsp.","kew-2479831",FALSE,FALSE
+"918","Sclerocarya","birrea",NA,"","kew-2479830",TRUE,"1.1","Accepted","Anacardiaceae","Sclerocarya","","birrea","","(A.Rich.) Hochst.","kew-2479830",FALSE,FALSE
+"919","Ceratonia","siliqua",NA,"","ild-1158",TRUE,"1.1","Accepted","Leguminosae","Ceratonia","","siliqua","","L.","ild-1158",FALSE,FALSE
+"920","Eriobotrya","japonica",NA,"","rjp-1354",TRUE,"1.1","Accepted","Rosaceae","Eriobotrya","","japonica","","(Thunb.) Lindl.","rjp-1354",FALSE,FALSE
+"921","Ficus","carica",NA,"","kew-2809827",TRUE,"1.1","Accepted","Moraceae","Ficus","","carica","","L.","kew-2809827",FALSE,FALSE
+"922","Morus","nigra",NA,"","kew-2501426",TRUE,"1.1","Accepted","Moraceae","Morus","","nigra","","L.","kew-2501426",FALSE,FALSE
+"923","Arbutus","andrachne",NA,"","kew-2646651",TRUE,"1.1","Accepted","Ericaceae","Arbutus","","andrachne","","L.","kew-2646651",FALSE,FALSE
+"924","Ziziphus-christi","spina-christi",NA,"","",FALSE,"1.1","","","Ziziphus-christi","","spina-christi","","","",FALSE,FALSE
+"925","Rubus","ulmifolius",NA,"","rjp-12",TRUE,"1.1","Accepted","Rosaceae","Rubus","","ulmifolius","","Schott","rjp-12",FALSE,FALSE
+"926","Rubia","peregrina",NA,"","kew-180363",TRUE,"1.1","Accepted","Rubiaceae","Rubia","","peregrina","","L.","kew-180363",FALSE,FALSE
+"927","Asparagus","acutifolius",NA,"","kew-274916",TRUE,"1.1","Accepted","Asparagaceae","Asparagus","","acutifolius","","L.","kew-274916",FALSE,FALSE
+"928","Osyris","alba",NA,"","kew-2396411",TRUE,"1.1","Accepted","Santalaceae","Osyris","","alba","","L.","kew-2396411",FALSE,FALSE
+"929","Phillyrea","sp.",NA,"","",FALSE,"1.1","","","Phillyrea","","sp.","","","",FALSE,FALSE
+"930","Phytolacca","americana",NA,"","kew-2562777",TRUE,"1.1","Accepted","Phytolaccaceae","Phytolacca","","americana","","L.","kew-2562777",FALSE,FALSE
+"931","Tamarindus","indica",NA,"","ild-1720",TRUE,"1.1","Accepted","Leguminosae","Tamarindus","","indica","","L.","ild-1720",FALSE,FALSE
+"932","Solanum","mauritianum",NA,"","tro-29600120",TRUE,"1.1","Accepted","Solanaceae","Solanum","","mauritianum","","Scop.","tro-29600120",FALSE,FALSE
+"933","Cinnamomum","camphora",NA,"","kew-2721183",TRUE,"1.1","Accepted","Lauraceae","Cinnamomum","","camphora","","(L.) J.Presl","kew-2721183",FALSE,FALSE
+"934","Lantana","camara",NA,"","kew-107934",TRUE,"1.1","Accepted","Verbenaceae","Lantana","","camara","","L.","kew-107934",FALSE,FALSE
+"935","Psidium","guajava",NA,"","kew-166741",TRUE,"1.1","Accepted","Myrtaceae","Psidium","","guajava","","L.","kew-166741",FALSE,FALSE
+"936","Annona","glabra",NA,"","kew-2640872",TRUE,"1.1","Accepted","Annonaceae","Annona","","glabra","","L.","kew-2640872",FALSE,FALSE
+"937","Vaccinium","cylindraceum",NA,"","kew-2458935",TRUE,"1.1","Accepted","Ericaceae","Vaccinium","","cylindraceum","","Sm.","kew-2458935",FALSE,FALSE
+"938","Agrostemma","githago",NA,"","kew-2626726",TRUE,"1.1","Accepted","Caryophyllaceae","Agrostemma","","githago","","L.","kew-2626726",FALSE,FALSE
+"939","Brassica","napus",NA,"","kew-2682380",TRUE,"1.1","Accepted","Brassicaceae","Brassica","","napus","","L.","kew-2682380",FALSE,FALSE
+"940","Camelina","sativa",NA,"","kew-2694405",TRUE,"1.1","Accepted","Brassicaceae","Camelina","","sativa","","(L.) Crantz","kew-2694405",FALSE,FALSE
+"941","Melilotus","albus",NA,"","ild-7888",TRUE,"1.1","Accepted","Leguminosae","Melilotus","","albus","","Medik.","ild-7888",FALSE,FALSE
+"942","Valerianella","locusta",NA,"","kew-2463641",TRUE,"1.1","Accepted","Caprifoliaceae","Valerianella","","locusta","","(L.) Laterr.","kew-2463641",FALSE,FALSE
+"943","Podophyllum","peltatum",NA,"","kew-2412818",TRUE,"1.1","Accepted","Berberidaceae","Podophyllum","","peltatum","","L.","kew-2412818",FALSE,FALSE
+"944","Antrocaryon","klaineanum",NA,"","kew-2643076",TRUE,"1.1","Accepted","Anacardiaceae","Antrocaryon","","klaineanum","","Pierre","kew-2643076",FALSE,FALSE
+"945","Pseudospondias","longifolia",NA,"","kew-2407086",TRUE,"1.1","Accepted","Anacardiaceae","Pseudospondias","","longifolia","","Engl.","kew-2407086",FALSE,FALSE
+"946","Pseudospondias","microcarpa",NA,"","kew-2407084",TRUE,"1.1","Accepted","Anacardiaceae","Pseudospondias","","microcarpa","","(A.Rich.) Engl.","kew-2407084",FALSE,FALSE
+"947","Trichoscypha","acuminata",NA,"","kew-2435121",TRUE,"1.1","Accepted","Anacardiaceae","Trichoscypha","","acuminata","","Engl.","kew-2435121",FALSE,FALSE
+"948","Myrianthus","arboreus",NA,"","kew-2369488",TRUE,"1.1","Accepted","Urticaceae","Myrianthus","","arboreus","","P.Beauv.","kew-2369488",FALSE,FALSE
+"949","Isolatocereus","dumortieri",NA,"","tro-5107511",TRUE,"1.1","Accepted","Cactaceae","Isolatocereus","","dumortieri","","(Scheidw.) Backeb.","tro-5107511",FALSE,FALSE
+"950","Mimusops","coriacea",NA,"","kew-128429",TRUE,"1.1","Accepted","Sapotaceae","Mimusops","","coriacea","","(A.DC.) Miq.","kew-128429",FALSE,FALSE
+"951","Lantana","camara",NA,"","kew-107934",TRUE,"1.1","Accepted","Verbenaceae","Lantana","","camara","","L.","kew-107934",FALSE,FALSE
+"952","Veitchia","merrillii",NA,"","kew-212035",TRUE,"1.1","Synonym","Arecaceae","Adonidia","","merrillii","","(Becc.) Becc.","kew-3315",FALSE,FALSE
+"953","Wikstroemia","indica",NA,"","tro-32000565",TRUE,"1.1","Accepted","Thymelaeaceae","Wikstroemia","","indica","","(L.) C.A. Mey.","tro-32000565",FALSE,FALSE
+"954",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"955",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"956",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"957",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"958",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"959",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"960",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"961",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"962",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"963",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"964",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"965",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"966",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"967",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"968",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"969",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"970",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"971",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"972",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"973",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"974",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"975",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"976",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"977",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"978",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"979",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"980",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"981",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"982",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"983",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"984",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"985",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"986",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"987",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"988",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"989",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"990",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"991",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"992",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"993",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"994",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"995",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"996",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"997",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"998",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"999",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1000",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1001",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1002",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1003",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1004",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1005",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
+"1006",NA,NA,NA,"","",FALSE,"1.1","","",NA,"",NA,"","","",FALSE,FALSE
